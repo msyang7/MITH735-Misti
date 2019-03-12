@@ -1,4 +1,4 @@
-SPARK would like to encourage communication between otherwise isolated individuals and groups and indeed to encourage the formation of groups throughout the country. If anything is happening out your way, let us know, your experience may be of use to others. SPARK is particularly interested in news of layoffs, job actions, military or other interesting contracts your company is handling, suppression or misuse of scientific and technical information, and discontent among technical workers.
+**SPARK** would like to encourage communication between otherwise isolated individuals and groups and indeed to encourage the formation of groups throughout the country. If anything is happening out your way, let us know, your experience may be of use to others. SPARK is particularly interested in news of layoffs, job actions, military or other interesting contracts your company is handling, suppression or misuse of scientific and technical information, and discontent among technical workers.
 
 Any individual, groupuscule, group, tendency or faction is invited to send us news items, full articles (news or analysis). These are three categories of solicited material;
 
