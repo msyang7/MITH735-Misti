@@ -13,7 +13,7 @@ For a nominal fee (payable in subscriptions or otherwise) we will print your art
 
 Columns and articles reflect the opinions of the originating individuals or groups who are not necessarily in mutual philosophical accord.  
 
-Let the sparks fly!
+Let the sparks fly!!
 
 <div style="text-align: center">
 Published by THE COMMITTEE FOR<br/>
