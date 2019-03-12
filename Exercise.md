@@ -15,6 +15,8 @@ Columns and articles reflect the opinions of the originating individuals or grou
 
 Let the sparks fly!
 
-Published by THE COMMITTEE FOR
-SOCIAL RESPONSIBILITY IN ENGINEERING
+<div style="text-align: center">
+Published by THE COMMITTEE FOR<br/>
+**SOCIAL RESPONSIBILITY IN ENGINEERING**<br/>
 137a West 14th Street, New York, N.Y. 10011
+</div>
