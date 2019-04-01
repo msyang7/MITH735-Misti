@@ -1,6 +1,7 @@
 # Collaboration Across Texts
 
 ![Cat image](http://3.bp.blogspot.com/-jnUMCgMDycE/UM9KUFnT0wI/AAAAAAAAcuM/q7MsJDT2CKI/s1600/funny-animal-memes-006-015.jpg)
+(Source: Amazing Creatures blog, http://amazing-creature.blogspot.com/2012/12/30-funny-animal-captions-part-6-30-pics.html?m=1)
 
 ## Team Members
 Misti Yang, Callan Roten, Hazim Abdullah-Smith
