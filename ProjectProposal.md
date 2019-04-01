@@ -26,39 +26,41 @@ Thinking about scheduling, I would like to attempt a distant reading by April 5t
 **Works Cited**
 
 Moretti, Franco. Network Theory, Plot Analysis. Stanford Literary Lab Pamphlet 2, May 1, 2011.
+
 Posner, Miriam, “How did they make that? The Video”
 
 **Working Bibliography**
 
-Allen, Jonathan. March 4: Scientists, Students, and Society. Cambridge: MIT Press, 1970.
+Allen, Jonathan. *March 4: Scientists, Students, and Society.* Cambridge: MIT Press, 1970.
 
 Fries, Sylvia Doughty. “Expertise Against Politics: Technology as Ideology on Capitol Hill,
-1966-1972.” Science, Technology, & Human Values, 8, no. 2 (Spring, 1983): 6-15.
+1966-1972.” *Science, Technology, & Human Values*, 8, no. 2 (Spring, 1983): 6-15.
 
 Mendelsohn, Everett. “The Politics of Pessimism: Science and Technology Circa 1968.” In
-Technology, Pessimism, and Postmodernism, edited by Yaron Ezrahi, Everett
+*Technology, Pessimism, and Postmodernism*, edited by Yaron Ezrahi, Everett
 Mendelsohn, and Howard P. Segal, 175–216. Amherst: University of Massachusetts
 Massachusetts Press, 1995.
 
-Moore, Kelly. Disrupting Science : Social Movements, American Scientists, and the Politics of
-the Military, 1945-1975. Princeton Studies in Cultural Sociology. Princeton: Princeton
+Moore, Kelly. *Disrupting Science : Social Movements, American Scientists, and the Politics of
+the Military, 1945-1975*. Princeton Studies in Cultural Sociology. Princeton: Princeton
 University Press, 2008.
 
-Perrucci, Robert, and Joel Emery Gerstl. Profession Without Community: Engineers in American
-Society. Studies in Occupations and Professions. New York: Random House, 1969.
+Perrucci, Robert, and Joel Emery Gerstl. *Profession Without Community: Engineers in American
+Society. Studies in Occupations and Professions*. New York: Random House, 1969.
 
-Spark. Multiple Issues.
+*Spark*. Multiple Issues.
 
-Unger, Stephen. “The Assault on IEEE Ethics Support.” Technology and Society Magazine, 18,
+Unger, Stephen. “The Assault on IEEE Ethics Support.” *Technology and Society Magazine*, 18,
 no. 1 (Spring 1999): 36-40.
 
 
-Unger, Stephen. “The Case of the Vanishing Ethics.” IEEE Technology And Society Magazine
+Unger, Stephen. “The Case of the Vanishing Ethics.” *IEEE Technology And Society Magazine*
 (Summer 2008): 5-6.
-Wisnioski, Matthew H. Engineers for Change : Competing Visions of Technology in 1960s
-America. Engineering Studies Series. Cambridge, Mass.: MIT Press, 2012.
 
-Zimmerman, Bill. Towards a Science for the People. Brookline, Mass.: People's Press, 1972.
+Wisnioski, Matthew H. *Engineers for Change : Competing Visions of Technology in 1960s
+America*. Engineering Studies Series. Cambridge, Mass.: MIT Press, 2012.
+
+Zimmerman, Bill. *Towards a Science for the People*. Brookline, Mass.: People's Press, 1972.
 
 **Journals to Explore**
 
