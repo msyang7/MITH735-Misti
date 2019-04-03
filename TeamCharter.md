@@ -45,7 +45,10 @@ To gain experience working collaboratively in a dh setting
 
 To learn more about and from the disciplines and research of Hazim and Callan
 #### Hazim
-To learn
+To learn various tools for creating a digital project
+
+To engage in collaborative discussion
+
 
 #### Callan
 To learn how to work collaboratively within the scope of digital humanities
