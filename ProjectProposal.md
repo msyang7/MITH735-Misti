@@ -23,6 +23,8 @@ In terms of relevant literature, the text of *Spark* itself should be generative
 
 Thinking about scheduling, I would like to attempt a distant reading by April 5th. In order to do this, I need to scan portions of *Spark* this week. Regardless of whether distant reading proves possible, I will finalize a GIS application/software to use by April 5th so that I can determine how I would need to process the information in *Spark* and think about the possible presentation of that information. If distant reading is not possible, I think a reasonable goal is to “map” one issue of *Spark* for a working project prototype.
 
+Prototype Images
+--
 ![Wireframes](Wireframes.jpg)
 ![Data Flow](Data Flow.jpg)
 
