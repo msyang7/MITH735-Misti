@@ -1,0 +1,2409 @@
+
+            vol.1 no.1
+march 1971
+,,~-
+-~·---~~
+-
+-~----~
+---- --- -
+-~•-....-..--.-.-.--
+on
+seymour
+norbert i bm,
+melman's
+wiener's bell labs,
+pentagon
+~- ~~-~,_,,.,.~
+charles new
+proteus engineering
+steinmetz conference
+statement brook haven capitalism
+~
+c.s. r.e. channeling
+unemployment tax resistance
+david packard ? ? i.e. e. e. critique
+$0.50
+
+         ., . ,,
+·•, : __,,_'
+1 _ •• ~ J • 1_).
+sPARKvJou1d 1ike to encourage co1m,1unication be~vJeen otherwise isolated individuals and groups and indeed
+to encourage the forr,iation of groups throughout country. If anything is happening out your way, us know your experience may be of use to others.
+SPARK i~ particularly interested in news job actions, military or other interesting
+the let
+your company is handling, scientific and technical among technical workers.
+suppression inforr,1ation,
+of layoffs, contracts misuse of and discontent
+Any individual,groupuscule,group,tendency,
+is invited to send us news items, full articles
+(news or analysis ). There are three categories of reader solicited material;
+1) News Ite,ns
+Send us the raw information and tell us how to get in touch with you. We do the writing and check with you for clarification if necessary.
+2) Essays
+Subinit type\Jritten double spaced manuscripts on d l/2 by 11 paper.
+3) Columns
+For a nominal fee (payable in subscriptions or otherwise) we will print your articles under your
+logo. Send us 8 112 by 11 paste-ups. Nothing \vi 11
+be changed but articles rebuttal,contradiction
+Columns and originating necessarily
+Let the sparks fly!
+Published by THE COMMITTEEFOR
+SOCIAL RESPONSIBILITY IN ENGINEERING
+137a West 14th Street, New York, N.Y. 10011
+are not protected against or contentious objection.
+reflect the opinions of the or groups who are not
+articles
+individuals
+in mutual philosophical accord.
+or
+or faction
+
+       I
+t'
+£"5.\"f>'E'("'tf'..S
+s
+sf \'"1
+N
+THE COMMITTEE FOR
+\-S SOCIAL RESPONSIBILITY IN ENGINEERING
+WorkingCommltt•:
+Tony Agnello,CCNY
+Prof. Ralph Akkoyunlu, SUNY Or. AaronAlhklnazy, RCA Prof. P. M.Brown,CCNY Prof. Frank Collins. PIB
+Prof. Oougl• Oa,ldl, NYU
+Or. Albert Frledes, BTL
+Dr. WIiiiamHiginbotham, BNL BarryR. Horowitz, PIB ElsaHorowitz, IBM
+LeeM. Horowitz, NCE
+Prof. George M. Katz, Col. Med. Larry S. Liebovitch, CCNY Brad Lyttle, WTR
+Ted Mankovich,Col. U.
+Prof. Seymour Melman, Col. U. Prof. M.-vin Paull, Rutgers Rowan Hay Rifkin, PlB
+Dr. Anthony Robbi, RCA
+Dr. Harvey Rubin, BTL
+Prof. Philip Sarachlk, NYU
+PaulStoller, IBM
+SteveTencer, Col. U.
+Prof.S. H. Unger, Col. U.
+Rod Wallace,Col. U.
+Ed Walker, IBM
+Prof. Richard Wiener,CCNY Prof.Sheldon Weinbaum,CCNY DavidWuchinlch,Cooper Union
+Coordinator: Ted Werntz
+(Affiliations for
+lcllntltlcatlon only)
+137a West 14th Streat, New York, N.Y. 10011
+STATEMENTOF PURPOSE
+E~lneers face today lncrea1I~ unemployment anti fob Insecurity, conditions that stem from ml19ulclednational
+priorities. Thousands of englnHrs feel that their e,.lneerlng talents are misused In both clvrllan and mllltciry pro(ec:ts,
+and believe that the constant development of weapons
+technology spells ultlmate '41sa1terfer mankind. The COMMITTEEFOR SOCIALRESPONSIBILITIYN ENGINEERING seeks to challe~e the present orientation of e~lnHrl~
+and to explore ways In which englneerl~ sldlls c., be used to solve the obvleus ancl 9rew1,. Ills Gf our seclety.
+It Is essentlal that we end unemployment and pollutlon and provide adequate medlcal ccre, housl"I, education, tr.,._ portatlon and communication systems fer all ....,1 ••
+We Invite you to explore these matters with us.
+
+              4
+Please enroll me as a
+MEMBERIN THECOMMITTEFEORSOCIAL RESPONSIBILITYIN ENGINEERING
+$10 Annual Membership other (see Rear Panel)
+Name ______________
+Address----"---------------- City ______________
+_
+_
+State _____
+_ Zip__ _
+Please
+send checks
+to
+the
+COMMITTEEFOR SOCIAL RESPONSIBILITY
+IN ENGINEERING I.
+___________________________________
+Vo1. 1 No. 1
+I
+137a West 14th St. New York, N.Y. 10011
+Spark is the bimonthly publication of the COMMITTEE FORSOCIALRESPONSIBILITYIN ENGINEERING~
+137a West 14th St. NewYork, N.Y. 10011
+Second Class postage paid at GPO New York. Application to mail at second class postage
+rates is pending at GPONew York.
+March 22, 1971
+!
+I
+
+       CONTENTS
+page
+3
+STATEMENTOF PURPOSE
+C.S.R.E.
+New Engineering Conference
+Ii:, •i •i.
+Petition
+Structure
+ASPEP (RCA)
+CESO (Council of Engineering and Scientific
+6
+7
+8 I, 9
+1U 1L 13 14 15 16 1ti 17 18 19
+21 23 24 :l5 2ti 27 28 30 3:l 33 35 36 37 38 39 39 4U 41
+to A~end IEEE Constitution of the IEEE
+- Organizations)
+Sperry Gyroscope Engineers Union
+Un Seymour Melman's 'PENTAGUNCAPITALISM' Dr. Strangelove Award
+Clearinghouse for Professional Responsibility JOBSEEKERS, St. Louis
+Critique of the IEEE's 'Fare for the Fair Se~• Additional Roles for the IEEE
+Norbert Weiner's Non-complicity Statement The Moral Responsibility of Scientists
+by Frank Collins
+On Charles Proteus Steinmetz Apri1 24
+TAP,TASC,Earth Action and a Trip to Washington reprint of SANE ad
+on Dan McCracken and the ABM
+FAS newsletter
+War Tax Resistance Employment Clearinghouse, Workplace Underground
+Ttie Brookhaven Free Press The BBN 'Signal/Noise'
+The LRL 'Real Lab News'
+SI Pl
+SCPI
+Labor-University
+Pacifrca Engineering
+BTL Technical Workers
+Retraining, from CPP-Aerospaced from the ASME(New York Section, Science for the People Channelling
+Packard???
+Misc. Spark
+Alliance
+Palo Alto Newspapers
+SPARK IS
+THE COMMITTTEEFOR SOCIAL RESPONSl~ILITY
+IN ENGINEERING
+137a West l~th St. New York,· N.Y. 10011
+Puo1ished by
+Engineer's
+Forum)41 42
+44
+46 49 51)
+5
+!I
+
+THE COMMITTEE FOR
+SOCIAL RESPONSIBILITY IN ENGINEERING 1 3 7 a W e s t 1 4 t h S t , N e w Y a k , N . Y . J OOB
+<m i
+•'
+INVITES YOU TO PARTICIPATE IN THE
+NEW ENGINEERING CONFERENCE
+DURING THE
+IEEE CONVENTION
+MARCH 22-24, 1971 NO REGISTRATION FEE
+OPEN DISCUSSION SESSIONS:
+L THE ECONOMIC CRISIS IN ENGINEERING:
+Unemployment, government policies, conversion to a peacetime economy; effects
+on the engineer.
+(Mon. Mar. 22, 2:00pm)
+2. INDIVIDUAL FREEDOM AND RESPONSIBILITY IN ENGINEERING: Personalresponsibility for the consequences of one's work. Your influence on
+the direction of your work; alternate employment choices. Code of Ethics;
+DTflfinM of the nmfMnnn prestige of die profession.
+(Tues. Mar. 23, 2:00 pm)
+3. ENGINEERING ORGANIZATIONS — WHAT COULD THEY DO FOR YOU? Critique of the IEEE. Other professional societies (AMA, etc.). Engineering Unions. New organizational forms.
+(Wed. Mar. 24/ 7:30 pm)
+AUDIENCE PARTICIPATION WILL BE EMPHASIZED!
+Partial List of Participants:
+S H IR K S * H>'ln . Anthony Robbi FnJrariM,to Kssrcss
+William Davidon victor Pasdikis
+Sessions held at: EthkalI Culture Society HaU
+k?1'Jat <-entral Pa'k West) (4 short blocks north of Coliseum)
+The next issue of SPARK will contain full coverage of e proceedings of the hew Engineering Conference.
+
+THE COMMITTEE FOR
+SOCIAL RESPONSIBILITY IN ENGINEERING
+137a West 14th Street, New York, N.Y. 10011
+For those people who did not attend the I.E.E.E. Convention/ C.S.R.E. circulated the following petition at the Convention.
+As stated in Article XIV of the Constitution/"Amendments
+to this Constitution...may be proposed by the Board of
+Directors or by petition.m,A petition must be signed by at least one-third percent of the total number of voting membership.11
+It is the hope of C.S.R.E. to get much more than the required one-third percent. If you and/or your co-workers did not sign/Use the following petition and mail to C.S.R.E.
+A PETITION TO THE BOARD 0E DIRECTORS OF THE'IEEE
+The undersigned members of the IEEE herewith propose to change Article I, Section 2 of the Constitution of the Institute of Electrical and Electronic Engineers to read:
+"Itspurposesareprimarily scientificandeducational,and
+it shall strive to enhance the quality of life for all people and to promote the welfare of the engineers it represents.
+The IEEE shall direct its efforts toward the advancement of^
+the theory and practice of electrical engineering, electronics and the related arts and sciences, and toward an understanding of the impact of these advances on society. Means to these
+ends are the holding of meetings for the reading and discussion of professional papers, the publication and circulation of works of literature, science and art pertaining thereto and any
+other activities necessary, suitable and proper for the fulfill­ ment of these objectives."
+(The words underlined are the proposed addition; parts of the existing first sentence of the Section are deleted.)
+Our intention in elaborating and extending the purposes of the IEEE is twofold. First, the engineer should become more aware of the social consequences of his work and his special responsibility in preventing the misapplication of scientific knowledge. Second, the current IEEE concerns
+with the welfare of its members, such as the IEEE Insurance Program and the recent concern shown for engineering unemploy­ ment, are magnified and made more legitimate. (Some letters in Spectrum have pointed out many practical ways in which
+the IEEE could better insure the treatment of its members as professionals.)
+NAME
+ADDRESS
+
+THE COMMITTEE FOR
+SOCIAL RESPONSIBILITY IN ENGINEERING
+137a West 14th Street, New York, N.Y. 10011
+The Structure of the IEEE
+The IEEE makes no pretense that it is a model of democracy5 and recent changes in its Bylaws make it even less so. The IEEE is run by 27 men called the Board of Directors working within the framework of a Constitution and a Bylaws. These documents are available on request from IEEE Headquarters. The mechanisms for changing the Constitution, Bylaws, and Board composition are summarized below( "VM" is voting member, i.e. grade of Member or higher).
+Constitution Amendments; petition signed by 1/3 of one percent of all VM, then approved by 2/3 vote of Board of Directors, then approved by 2/3 of VM who respond with mail ballot (can also be initiated by 2/3 vote of Board)
+Changes in Bylaws: 2/3 vote of Board of Directors
+Board of Directors: total 27 - A) elected by VM: President, Vice President, nine Regional Directors, six Technical Division
+6r at-large Directors; B) holdovers: two most recent Past Presidents; C) appointed by Annual Assembly (A and B above): eigit at-large Directors. To nominate by petition for Directors in categories A^and B above requires the signatures of at least
+2% of the VM eligible to vote for the particular office. Terms of the elected Directors are generally 2 years. Thus in any one year approximately eight Directors are elected by the VM
+In Addition: 1) The Board of Directors defines the geographic Regions to be represented by a Director. 2) The Annual Assembly and Board meetings are closed.
+-f+-k c^ear "t*ie substantive changes in the mechanisms o e IEEE and m the composition of the Board of Directors are impossible without approval of the Board. The IEEE will not
+c ange until it feels substantial pressure from its membership.
+The membership s source of ultimated power is its freedom to resign.
+Anthony Robbi Member C.S.R.E.
+Working Committee
+
+CESO Holds Second
+al Engineers and Associates:
+Ontario, Canada.
+3. Council of Northern Electric Engi­
+neers Association:
+Montreal, Quebec, Canada.
+4. RCA Engineers and Scientists Asso­
+ciation:
+Montreal, Quebec, Canada.
+5. Westinghouse Salaried Employees As­ sociation:
+Lester, Pa.
+6. Nashville Electric-Service .Employees
+Annual Convention
+The Council of Engineers and Scientists Organizations (CESO) has completed its hrst full year of operation. Conceived in November of 1968 at a historic meeting in Bal Harbor, Floriua, CESO was offi­ cially born at the First Annual Convention of March 1969, in San Francisco. In the past year, a number of organizations have applied lor membership, aligning them­ selves with the ten Charter Members who originally ratified the CESO "Rules of
+Procedure". The Second Annual Conven­ tionot March 1970, in Washington, D. C., found CESO expanded, stiengthened and ready to provide effective representation of working engineers and scientists in the U.S.A. a n d C a n a d a .
+The founding organizations of CESO were:
+1. Southern California Professional En- gineci s , /ssociation (SCPEA ): McDonnell Douglas, Ingle wood, Cal- ilornia, and The Southern California Cas and Electric Company.
+2. Engineers and Architects Association, Civic Center Chapter ( E A A ) :
+City of Los Angeles.
+3. Engineers and Scientists Guild, Lock­ heed Section (ESG ):
+Lockheed, Burbank, California.
+4. Seattle Professional Engineering Eim- ployces Association ( S P E E A ) : Boeing, Seattle.
+The officers during CESO's first year (WEA): were:
+to enter the U.S.A. The CESO Chairman wrote to the appropriate Congressional Committee suggesting that Congress would be better advised to show proper
+*7 Wichita Engineers Association
+Boeing, W ichita.
+6. Association of Scientists and Piofes- stonal Engineering Personnel (ASPEP).
+7. Eacuity Association:
+RCA Service Company schools, New York City.
+Chairman: Charles M. Brindley. Secretary-Treasurer: Rex Hijman, who was also Chairman of the SPEEA
+Executive Committee.
+During the year, contacts were made
+with all members of the U. S. Congress,
+and with the Deans of the top 200 Engi­ N. Westinghouse Engineers Association, neering Schools in the U.S.A. The letters
+National ( W E A N ) : informed the addressees of the formation
+Westinghouse at five locations: New­ of CESO and that CESO claims the ex­ ark, Bloomfield, Jersey City, N. J.; clusive right to speak for industrially em­
+Ruffalo, N. Y.; and Mansfield, Ohio.
+E I V A Engineers Association.
+b). Salaried Employees Association:
+ployed engineers and scientists. The letters offered to provide speakers to testify on Congressional Legislation affecting engi­
+Marconi Company, Montreal, Que­ neers and scientists, "and to address Tech­
+lle, Canada.
+Organizations which joined CESO dur- Ulg the past year were:
+Seaway Engineers Association:
+Montreal, Quebec, Canada.
+2- Society of Ontario Hydro Profession­
+nical Society Chapter meetings.
+Congressional contacts led to opportun­ ities to influence legislation. For example, it was discovered that a proposed Amend­ ment to the Immigration Act would make it easier for alien engineers and scientists
+Association: concernforthethousandsofU.S.citizen
+Nashville, Tenn.
+Many other organizations have expressed
+an interest in CESO. The following are those who sent observers to at least one CESO meeting:
+1. Conference of Professional and Tech­ nical Personnel, Inc.:
+Bell Labs.
+2.
+3 .
+4. Association of Engineers of Canadian
+National Railways:
+Montreal, Quebec, Canada.
+5. Association of Polish Engineers:
+Montreal, Quebec, Canada.
+6. Canadian Council of Professional En­ gineers:
+Ottawa, Ontario, Canada.
+7. Professional Syndicate of Northern Electric Engineers:
+Montreal, Quebec, Canada.
+engineers on layoff. Individual CESO units were also asked to contact their local Congressmen and Senators.
+On the other hand, CESO has exerted its influence^n favor of beneficial legisla­ tion. Two Bills are of particular impor­ tance to engineers. One establishes a Na­ tional Pension System so that engineers can move from one company to another without losing retirement rights. This Bill is still being studied in Committee, and CESO will be able to exert influence during its formative period.
+A second Bill establishes the rights of an employed engineer to ownership of inventions not connected with his em­ ployer's activity. It also establishes the engineer's right to equitable compensation for an invention even when the company has the right to ownership. The new CESO Chairman has been invited to ap­ pear before the Committee to testify in favor of this Bill.
+It may be hoped that passage of this legislation will represent the first of many steps toward greatly improved conditions of employment for working engineers. CESO, of course, will invite the coopera­ tion of all organizations claiming to have some concern for working engineers in the continuing search for improved con­ ditions. It is not impossible that NSPE, EJC and the technical societies, despite their bias toward the management point of view, may be willing to ally themselves with CESO on some issues.
+In summary, CESO is now one year old. It has become truly international with the establishment of CESO-Canada. It has grown and is continuing to grow. It has already made itself felt on legisla­ tion affecting engineers and scienitsts, and
+will continue and expand this thrust. It represents the best hope for a general im­ provement of working conditions for em­ ployed professionals, and deserves all pos­ sible support from every engineer and engineering organization.
+Pitts field
+Association. Schenectady General neers Association.
+General
+Engineers Engi­
+Electric Electric
+1945-1970 ASPEP'S 25TH YEAR OF
+REPRESENTING SCIENTISTS AND PROFESSIONAL ENGINEERING PERSONNEL
+
+10
+REGIONAL OFFICES
+CESO-East CESO-Canada CESO—Wait 318CooparStreet c/oSEA(M) 3214WestBurbankBoulevard
+Camden, New Jersey 08102 2442 Trenton Avenue, Burbank, California 91505 Montreal 301, Quebec, Canada
+609-964-1552
+(514) 343-3411
+COUNClTuFtNGINEERS ANDSCIENTISTS ORGANIZATIONS
+March 4, 1971
+ADMINISTRATION CONCERNED ABOUT UNEMPLOYMENT AFFECTING ENGINEERS AND SCIENTISTS IN THE UNITED STATES
+PRESIDENT CALLED A NATIONAL MEETING
+Mr. Gerald Sklarsky, National Chairman of the Council of Engineer# and Scientist# Organization# (CESO) and President of the Engineers k Scientists Guild, Lockheed Section, Burbank, California, attended this special meeting Wednesday, March 3, 1971 in Washington, D. C. In attendance at this meet­ ing were the Presidents of about 50 Professional and Technical Societies. Among those attending were Donald E. Marlowe, ASME President, James
+H. Mulligan, IEEE President, Floyd Thompson, AIAA President and J. Caldwell Wilson, NSPE President.
+The meeting, entitled MA Working Conference on Employment Problems of ScientistsandEngineers",waschairedbyDr.EdwardE.David,Jr., ScienceAdvisortothePresident. Theopeningremarksandtheobjectives of the meeting were made by Secretary of Labor Mr. James Hodgson.
+Administration representatives made the following points:
+a. Administrative planning to do more to alleviate unemployment among Engineers and Scientists.
+b. Administration recognizes Engineers and Scientists are an exceptional national resource and asset.
+However, Administration officials stated:
+a. Defense budget will not reach level of spending of the 1960's.
+b. Engineers should return to traditional segments of the economy, government, private industries and schools.
+c. Administration encourages relocation and re-training.
+- over -
+SCKNns,semor£D„m^ ^ ^ ^
+
+- 2 -- March 4, 1971
+Various representatives of the Professional Societies suggested:
+a. Tax credit for employers who hire unemployed Engineers and Scientists.
+b. Federal government should reduce the1 work week, establish a four day work week, and reduce wages by 20%.
+c. Additional Research and Development money.
+In representing the 125, 000 m em bers of CESO, M r. Sklarsky commented that:
+a. CESO representatives have attended similar meetings in the last two
+years, but there have been no constructive results to date.
+b. Political representation is required for all Engineers and Scientists,
+c. The immediate establishment of a NASA type federal agency charged with the responsibility and sufficiently funded to seek solutions to such national problems as pollution, needed mass transportation, crime, nutrition, health care and social alienation. Engineers with the needed skills and knowledge required are available to solve these problems today.
+11
+
+ 12
+IUENEWS
+1,400SperrRyanEdngineers C·hooIsUeEinRecorVdote
+LAKE SUCCESS, N.Y.-For the sec- ond time in' seven months, a record sized engineering unit voted for IUE representa- tion as 1,400 Sperry Rand engineers chose our union by an 827-492 margin in an
+_NLRBelection here July 2.
+The local, known as the Engineers Union, is the largest unit of engineers ever to vote for an AFL-CIO union. The winning total also was the highest vote ever given an engineers' union in an NLRB election.
+In picking IUE over "no union" by a wide margin, the Sperry Rand profession- als gave a strong vote of confidence to the steering committee headed by Nick Fabijanic which carried the ball during the organizing campaign.
+They also provided a clear decision in a fight that goes back to 1960 when the independent Engineers Association at Sperry voted to affiliate with IUE.
+A subsequent vote to decertify was overturned by the NLRB becaust of com- pany interference. In 1962 however, the unit was divided and the technical em- ployees voted for IUE and the engineers chose no union.
+In the years that followed the technical employees--lUE Local 445-made sub- stantial salary gains, maintained their cost of living protection and negotiated a guaranteed annual merit kitty.
+Salaries for the engineers remained static, they received no C-o-L gains and their merit increases were cut.
+In addition, the company decided to eliminate a pension annuity and replace it with a risk-oriented investment program.
+The committee stressed these·points in its campaign, which was conducted almost entirely on a person-to-person basis.
+Fabijanic's steering committee cochair-
+HAYNES
+FABIJANIC
+ZYLLA
+For further information contact Nick F b" • ·
+Engineers Union, 1~3 Hillsid (Slb-Pll-b325).
+e
+A . a. 1Jan1c, President of the ve. Williston Park, N.Y. 1159ti.
+man was Local 445 President Henry Zylla, also an engineer. ·
+They were aided by a founders' com- mittee of 100 engineers, and by District 3 Community Action Director John Haynes, formerly executive secretary of of the Engineers Association.
+IUE President Paul Jennings noted that ~he victory followed last December's vote for JUE by over 700 engineers and engi- neering assistants at Western Electric, Kearny, N.J. He called the two wins "part of a growing trend involving profes- sional workers."
+"This trend will continue," Jaminp said, "because representation duvulhin- ternational unions has paid off IDd will continue to do so. We are proud these two groups have chosen IUB."
+As a further boost to the trend, the Engineers Union has petitioned for a group of 150 additional engineers. When this unit votes for IUE, all professional, engi'neering and scientific employees at Sperry will be in tlie Engineers Union.
+Bargaining has started for the 1,400- member unit. The goals .include union sbop, guaranteed merit kitty, C-0-L ad- justment and a general increase.
+The steering committee consisted of Fabijanic, Zylla, Ed Benson, Harold Block, Al Blumenstock, Bud Carlson, Dom Corig- liano, Joe Greeley, Bill Keneally, Charles Richardson, Bob Sattler, Ted Shiako, Al Tramposch, Ed Weigand and Bill Wilkes.
+l
+
+      e
+THE STATE WITHIN A STATE
+13
+By Robert Heilbroner
+(The excerpts which follow were published in the July 23 issue of The New York Review of Books. Professor Heilbroner is a member of the National Board of SANE.)
+Pentagon Capitalism: The Political Economy of War by Sey- mour Melman. McGraw-Hill, 290 pp., $8.50.
+The thesis of Seymour Mclman's terrifying book can be briefly stated. There exists within the democratic capitalist po- litical economy of the United States a second political economy that is neither capitalist nor democratic. Technically subor- dinate to the larger entity, this second political economy has in fact become the acknowledged master of the industrial core of the primary economic system, and the silent master of crucial areas of its political life. Each year the directorship of this inner state, through appeals of mixed fear and patriotism, re- news its control over the richest portion of the nation's re- sources, which it then disburses to its industrial satrapies.
+In the process of rewarding its vassals, the central manage- ment casts an indulgent eye on the excesses of its supporters, and takes care to shore up weaker members lest by their dis- appearance the boundaries of the inner state shrink. Finally, and most important, the state within a state has a double sig- nificance for the society in which it is entrenched. Presump- tively the inner state serves as a mighty striking force whose purpose is to make invincible the nation's will. In fact, how- ever, the inner state is the Achilles' heel of the outer, not only robbing it of energies and creativity that cannot be pried loose from the insatiable demands of the military, but threatening by its very presence to invite the total destruction that even its immense striking force cannot prevent ...
+Terrifying Experience
+I fear that this condensation docs scant justice to the power of Melman's book. No doubt many of the individual facts arc familiar enough, at any rate to those concerned with the prob- lem, but they arc here assembled in a stunning way. The re- lentless adumbration of the means of Pentagon control over in- dustry, university, Congress (the Pentagon has a lobbying force of 339 men, or about one for every two members of Congress); the fictions and science-fictionsof "defense"; the wearisome account of DOD opposition to all moves that would lessen its influence; and above all the detailed exposition of the "oppor- tunity costs" of the defense system-that is, of the improve- ments that cannot be undertaken because the war machine
+has pre-empted men, materials. and 'TIOney-all these make
+reading this book, as I have statcd-~t the outset, a terrifying ex- perience.
+Yet this is not, in my view, the most important contribution of the study. For Professor Mclman's intention is not merely to rally opinion against the para-state, but to propose a new theory of the relation of the military establishment to the larger ,society.
+Two Main Theories
+T~crc arc today two such main theories of the American military structure. The first, which is espoused by the DOD itself,_as well as by the majority of political scientists or polit-
+ical spokesmen, is that the military establishment is nothing more than the traditional, constitutionally ordained, military arm of the civil state. The fact that it is larger and more pow- erful than in the past is blamed not on the activities of the military establishment itself, but on external events, political and technological, to which the military system constitutes onfy a measured response. In defense of this thesis, the DOD or the traditional spokesmen stress the ultimate civilian directorship of military affairs, the continuing indoctrination of the military as the servant of the civil government, the scrupulously observed domestic political neutrality of the military, etc.
+A second theory is that of Marxism, or nco-Marxism, which views the military structure in a different light. From this vantage point, the military para-state serves two purposes. The first is the aggressive promotion of the interests of the capitalist' order against the revolutionary forces, actual or potential, of the third world. The second is the. creation, with the implicit blessing of the business community, of an area of production that is totally non-competitive with the normal economy, al- lowing capitalism to find an expansive salient without which the system would suffer from glut, falling profits, and inner crises.
+A Third Possibility
+Different as they are, these theories have a common base. Both assert the predominance of the civilian interests over the military. In the conventional view, it is "the people"; in the Marxian view, "the capitalists" who call the tune, and in both explanations of the military presence, it is the military who obey.
+Professor Melman suggests a third possibility. It is that the military establishment has constituted itself as a self-contained entity, capable of impressing its views and imposing its will not only on the civil establishment to which it pays a ritual
+obeisance, but over a section of the economy in which the language of private enterprise is merely a fiction to hide its absolute authority. Moreover, that authority is no longer the loose coordination of businesses characteristic of the "military- industrial complex" of President Eisenhower's day. What has emerged today, Melman maintains, is a new form of "statc- managemcnt" in which "the federal government docs not serve business or regulate business. . . . Government is busi- ness."
+It is true, of course, that the topmost figures in command of the DOD arc civilians, and moreover either direct emissaries from the business world or men whose business sympathies arc explicit. That explains the extraordinary solicitude the DOD shows for levels of performance that would never be tolerated within a genuine business enterprise. Yet, as Melman points out, "the crucial factor is the institution's nature, not the style of clothing worn by its top directors. The overwhelmingly military character of the state-management dominates the in- stitution, not the personal-professionalidentity of its chiefs."
+Power and Excitement
+There is, in other words, within the closed system of the military establishment and its coordinate political world view, a compelling logic that transforms the mere businessman, sad-
+
+           14
+THESTATEWITHINA STATE
+died with his hopelessly bourgeois ideas of rational e~onom(c conduct, into the imperator for whom the ultimate. rationale 1s now something larger than common business pursuits. Melman quotes Tom J.Farer, a former aide to McNamara, on the motivating spirit at the Pentagon.
+"When I worked there, during the Kennedy era, the office of the Secretary of Defense seemed to be ... an island. We were zestful, moved by controlled excitement, occas_ionaYl_l even euphoric, not with any crass sense of power, but with vis- tas of the elimination of nuclear terror by means of the sys-
+tematic application of human r~~son. We were true believers and McNamara was our prophet.
+Let these words remind those who sometimes write as if the drive for profits were the primal source of human aggression that profits are a calculus capable of indicating that some ac- tions are contrary to the interests of the profit-seeker. For those whose rewards are the frissons of "controlled excitement" and the sense of beatitude that comes from applying human reason to the affairs of men, there are no such negative indicators. From such motives are built not businesses, but empires.
+CanIt Be Reversed?
+Is the military establishment-the state within a state-in fact independent of its economic and political host? The issue is of surpassing importance, but I confess myself unable to de- termine how it is to be answered before history answers it for us....
+In the disillusions of the Vietnam war, the growth of that garrison state has now been checked. But I suspect that the question whether there will be a peaceful capitalism or a re- sumption of the hegemony of military state-capitalism will not be finally resolved until the Vietnam war at last peters out and the American economy is faced with the challenge of convert- ing to a peacetime basis.
+· That huge and potentially life-saving transformation will re- quire national planning on a ·vast scale, for which we have made no preparations, and before the prospect of which our latent conservatism may rise up to impose insuperable ob- stacles. In that event, our economy will falter, and the appeal of a return to the arms of the DOD will be very great. I do not know how to estimate the cha~ces of our successful economic reorientation. I can only say that if we fail, the general prospect outlined by Seymour Melman seems the most likely course for the American nation to take, an eventuality that should make all men despair.
+Other Books Gy Sey1,1uur /1,elr,1an Our OepleteJ Society
+Deci.sion-1,1aking anu Pruductivity The Peace Race
+ln::.pection for uisar;:ia:11ent (Editor) In the Narne of America (Editor)
+Conversion of Industry fro,,1 a liilitary
+to a Civilian Econorny:A Series(EJitor).
+Copies of Pentagon Capitalism are available fro1,1 CSHE for $3, (paperback)
+S.E.S.P.A. IS NAUSEATED TO PRESENT ITS SECOND* ANNUAL DR. STRANGELOVE
+AWARDTO EDWARD TELLER
+in recognition of his ceaseless efforts to follow in the footsteps of the great Peter Sellers . Dr. Teller, not content to rest on his laurels as "Father of the H-Bomb", has ceaselessly promoted the rapid dev- elopment of all feasible systems of nuclear destruc- tion.
+He has argued for the indefinite continuation of atmospheric nuclear tests.
+He has fought for the development and pro- duction of the ABM and MIRV weapons systems.
+He has consistently espoused the practical use of nuclear weapons, most strikingly in his contention that "we must prepare for limited warfare-limited in scope, limited in objectives, but not limited in weapons. A localized limited nuclear war."
+He has sought to create an atmosphere in which nuclear war would be possible by pub- icly belittling the effects of such weapons, as for example, in his statement, "The great majority of our citizens could survive a nuclear attack."
+The name Edward Teller is recognized everywhere as a symbol of science in the service of warmakers. No- thing better exemplifies the absurdity of a "disinter- ested search for truth" funded by the DoD than his own philosophy:
+The duty of scientists, specifically, is to ex- plore and to explain. This duty led to the invention of the principles that made the hy- drogen bomb a practical reality. In the whole development I claim credit in one respect only: I believed in the possibility of developing the thermonuclear bomb. My scientific duty de- manded exploration of that possibility.
+*NOTE: presentation of First Annual Award to M. M. May of Livermore is reported in "Report
+from Berkeley SESPA," Science for the People vol. II, No. 2, Aug. 1970, p. 12.
+
+              One direction for Social Respon-
+15
+ment of lawyers, engineers and scientists.
+In an article in Science~ Vol. 171, Feb.12,1971, Nader suggested the following quest- Ions be used as guidelines.
+"Is my knowledge of the matter accurate? What are the object-
+ionable organizational practices and what public interest do they
+sibility in Engineering shown by Ralph Nader.
+was recently He is setting
+up a group Professional Clearinghouse
+ca 1,1ed "C 1ear I nghouse for Responsibility". The
+will accept information basis from corpor-
+on a confidential
+ate and governmental professionals about employers' policies or prac-
+tices the
+that they consider harmful to public (consumer) interest.
+In a New York Times article(Jan.
+harm? How far should
+side the organization
+concern or objection?
+rμles being violated by con- tacting external parties? What
+is the best way to blow the whistle anonymously, overtly, by resignation prior to speak-
+ing out, or by some other alt- ernative? What is expected to be achieved by whistle-blowing
+27,1971), Mr. Nader was quoted as saying "Employed professionals are too often the silent instruments of private and public interest, destroy-
+ing the environment and consumer. Those professionals who have spoken out, within and beyond their organ-
+izations, have too often been de- moted, ostracized, di charged or sup- presses, when in fact they may be heroic figures".
+At a daylong con- ference at Washing-
+Are any
+ton's
+Hotel,
+stated "Repudiation of myopic or negligent
+Mayflower Nader that
+leadership in
+an organization
+is not the same
+as repudiation of
+the organization."
+Nader also suggested that
+sionals should band together to gain strength in numbers. He be-
+lieves that professionals should organize to force management to a-
+the likely response from various sources - inside and outside
+the organization - to the whis- tle-blowing action? For those who have asked themselves these questions and determined that they must, in good conscience, blow the whistle ••• (write) Clearinghouse for Professional Responsibility; P.O. Box 486; Washington, D.C. 20044."
+dapt due process proceedures that professional societies
+£efend thetr colleagues~
+Ate. punished fQr. invoking profes- .!.ional ethics against lli organiz- .Uioo ..th.a.1emplovs .l!:!.mn."Most of
+the established professional soc- ieties or associations never chal- lenge corporate or government treat-
+profes-
+and should
+.the.Y_
+the particular
+issue?
+What is
+I go In- with my
+
+        18
+The Editor "Spectrum"
+345 E. 47 th St. New York,N;Y,10017
+Dear SI r,
+Even if I overlook-the
+language of the write-up In the IEEE Convention booklet, ~Y reaction to the "goodies" _In store for the engineers' wives In the Ladles' Program Is less than enthusiastic.
+JOBSEEKERS
+What brings IEEE Convention?
+women together Largely, the
+at the
+fact that our husbands are engineers. We depend on
+the engineering Industries for the jobs which feed, house and clothe our
+families - and right now these Industries are putting many engineers out of work. The war In Vietnam and the resultant
+Inflation, and the recession which is an attempt to control this symptom rather than the cause, concern us all. Whyno session on unemployment In the industry,
+and what we can do about·it, men and their wives?
+We travel on antiquated
+systems In decaying cities,
+the suburbs where our cars add to the pollution produced by the Industries we depend on. What are the engineers doing about these problems? - wives would love to learn.
+Which of us can be happy when, maintaining our living standard depends on our husbands developing more sophisticated ways to rain death on war-weary people in Asia?
+The technology enmeshing us l-0ses sight of the people involved- technical considerations rather than peoples needs dictate what will be done. The children on whom we Impose this society, whom we educate according to technology's
+needs, may turn to drugs - so IEEE offers us_a 1ecture on "The Drug Scene".
+A more useful and relevant women;·s program would be one which attempted to talk about the social Implications of technological change, and, I might add, the entire conference would be far more useful to society If engineers left their semiconductors and microwave subsystems for three days and talked about where our technology Is going, and why. ,
+As women, we can't evade the despoiled environments we must breathe the same air and depend on the same transportation and
+communications networks as men. We don't ~lsh to be shunted off with fashion
+shows or a "peek" at Greenwich Village
+but need a public forum at the IEEE ' Convention to say that technology must serve the people, and people, _menand women, must stop being Its servants. We must give technology a human focus, for the greater good of a greater number of People.
+Barbara Marsh New York,N,Y,
+condescending
+On March 14, St, Louis labor leaders
+and rank-and-file particioated In a meeting called by JOBSEEKERS,a group of employed and laid off blue and white
+collar workers from McDonnell-Douglas, Emerson, and Monsanto, Leaders and ranl<-and-file from the following unions were invited to participate; lnternatlo·nal Union of Electrical Workers; Oil, Chemical and Atomic Workers; the United Auto Workers; Communication Workers of America; and the Aluminum Workers of America. The discussion at the meeting centered around the effects ~pon the American economy of
+the Indochina war and a documentary film about scientists and engineers In the defense industry in California, "The Schizophrenia of Working for War".
+JOBSEEKERS' purpos~ is to help to ~reate the conditions that will gener-
+ate the thousands of jobs needed to constructively employ those workers laid off by large St. Louis corporations. JOB- SEEKERS' program emphasizes that stable
+jobs In a stable America can be created only be conversion to non-military pro-
+for both
+mass transit
+or we move to
+duction-- to solving
+production America's
+that will be geared social problems.
+-------
+JOBSEEKERS
+1035 Central Parkway Florissant, Missouri Mrs. Wllliam'McClarm1er
+
+    ADDITIORNOALEFSORIEEE
+17 of publishing new work of a research nature,)
+In addition, a larger differential between member and non-member cost of publications should be implemented.
+An attempt must be made to involve more young engineers in IEEE activities. An effort migbt be made to place young engineers on ~ome of'. the commiJ!tee_s which help plan IEEE func-
+Many people
+respond to a changing social environment
+or lose the support of a large number of electrical engineers. The Institute func- tioned well 1n its originally chartered
+role, but pressures now exist for a
+change 1n that charter (see proposed
+charter amendment 1n this issue). It 1s up to us as members of the profession and of the IEEE to make our views known and support a full program for modernizing the Institute.
+believe
+that the
+IEEE must
+The IEEE recognizes
+and 1s attempting to
+action. The Board of
+lished the ad hoc Committee on the Pro- fessional Concerns of Young Engineers
+The opportunity for continu1n~ education
+and for retraining 1s of. importance to all engineers, High quality educational proc:rams provided by IEEE could give membership a significance which would endure throughout
+one's career. The IEEE might also undertake to license or give accreditation to engineers.
+Such recognition would pe subject to periodic renewal based upon professional perforr'ance, examination, or educational courses completed. This kind of program may tend to er.hence the professional recognition granted to enr,;ineers.
+The IEEE 1s prohibited by its restrictive charter from taking an active part influencing legislation that affects en~ineers. further- !"ore, there exists no independent ~roup of engineers that can provide leFislators with
+the need for change, determine a course of Directors has estab-
+(COFCYE) to classify members and to suggest solutions which will enable the Institute to better serve all its members.
+COPCYEwas formed 1n June, 1970 and
+consists of eleven electrical engineers, most of whom are 1n their early thirties. The "Spectral Lines" column of the October, 1970 issue of the IEEE Spectrum contains a 11st of committee members,
+Many IEEE students do not maintain their
+membership after graduation. It is important
+to attract these engineers back to the organ- unbiased testimony on the feasibillty and
+ization, To do so, COPCYE1s trying to answer two basic questions. First, what are the concerns of young engineers that IEEE does not currently satisfy? Secondly, what are the ways in which IEEE can satisfy these concerns?
+social utility of new technolo~y. In t~e ~ay, 1970 issue of Spectrul", 3, ~. ~ilrrotte has
+dealt wit\1 the problem of en,,,;ineerin,r trutl-i ir. an adversary environl"e'1t, ::any til"es Corc-ress has had to rely on the testirr.ony of scientists
+in a position to benefit monentnrily from Con>";ressional decisions. If t'1e Institvte can~ not become more active in represent1n~ its members before the nati6n•s ler;ilators, C0}CYE hopes that an affiliated organization can per- form that function, lit least, Il':Ei': could pub-
+The present employment situation is of
+importance to engineers of all ages, Some
+people feel that the employment problems we
+have today are a direct result of government
+policies; during the 1960 1 s, DODand KASJi grew
+so powerful that these agencies accounted for
+the support of a majority of electrical engin- ~.1c1ze Senator r'.ennedy I s Conversion, Hesearch,
+eering
+free
+exist,
+plines, It seems clear now that the government,' through its support of certain areas such as radar research, created a reserve pool of experts who were not immediately needed, while othe.r areas such as transportation received relatively little support with a resultant shortage of manpower, One idea set forth by COPCYEis that the IEEE gather and publish
+manpower in this country. market 1n engineering talent
+In essence, a ceased to
+E~ucation and Assistance Act (see footnote)
+This bill., which would. affpct ,,11 enr:irniers anr', <rnd· scientists, is to "provide for a three-
+year authorization of ~450 million to redirect
+the vast reservoir of talent of our scie'1tific
+and technical community to the deep, besettinr: problems of our r-.:ation - unerr.ployrient, crirr.e,
+and people were channeled
+into disci-
+statistics relating to job openings
+and long term government priorities
+affect the employment of electrical
+Such information may prove invaluable
+one planning an education in electrical
+eering or to someone wishing to change fields within the profession.
+The IEEE exists mainly to disseminate technical information, However, most arti-
+cles in IEEE publications
+for the general engineering reader,
+more,those who are lnterested in the
+can acquire them without purchasing
+There is a real question as to the value that IEEE membership has for young engineers, CCFCYEhas several suggestions which might make that membership more valuable. Technical pub- lications could seek more applications-oriented
+work which would be useful to younger engin-
+eers in carryin·g out their job assignments, (This is not to detract from the importance
+the Institute. CCFCYE new courses of actior,
+to let matters rest
+are too specialized Further- articles
+co~mitt~e
+and short which engineers.
+the COFCYEcomrnittee, the of the IEEE has shown e.n
+to some- engin-
+or with the new corn- the IEEE, we should help
+membership,
+of the Conversion,
+ilesen.rc: 0
+tions and
+involving
+through a
+gram. Students wold spend a summer investi-
+gating a local, regional, or national problem of concern to the electrical en~1neerin~ profession. The results of their work mip:ht be published in Spectrum or the Student Journal.
+establish IEEE policies.One way of student members in IEEE activies is so-called Summer Task Force Pro-
+ritcism, pollution, care, transportation,
+· 3y establishing
+Board of Directors
+interest in rev1tal1zin~
+has be1Wn to investir;ate
+but it.is not sufficient
+~11th the IEEE hierarchy
+mittee. As members of
+the organization to move boldly into the new d.ecade,
+nutrition, housin,c:,:, '1ealth and education."
+'Tn.r'.rP:/ Rvhi n csa~ workir~
+Footnote:
+s, 4241-Introduction
+Education and Assistance Jict of 1970; Senator Kennedy, The Congressional ilecord, Vol,11~ No.141 August 14,1970
+Cooies of this hill, and also s.44JO - Intro:iuct1on of the ::at1onal Econo'.ric 'Con- version Act; Senator i•:cGovern, are available from c.s.a.E.
+The quote
+in this article is from
+
+    18
+iW#&JWM&fi , WIEN1E0R1'1S:DMlPflIl.DICIDY
+The following letter, reprinted in its entirety from_the_Atlantic Mon~hlY !or January: 1947 was written by Norbert Wi~ner to a research sc~ent1st of a leading aircraft cor poration who had asked Dr. ~liener for information about missle research he had conduc- ted during the Second World War.
+I realize, of course, that I am acting as the censor of my own ideas, and it may sound arbitrary, but I will not accept a censorship in which I do not participate.
+The experience of the scientists who have worked on the atomic bomb has indicated
+that in any investigation of this kind the scientist ends by putting unlimited powers in the hands of the people whom he is least inclined to trust with their use. It is perfectly clear, also that to disseminate
+information about a weapon in the present state of our civilization is to make it practically certain that the weapon will be used. In that respect the controlled missile represents the still imperfect supplement to the atom bomb and to bacterial warfare.
+When, however, you turn to me for
+information concerning controlled missiles,
+there are several considerations which
+determine my reply. In the past, the comity indiscriminately,
+of scholars has made it a custom to furnish tection whatsoever to civilians in this scientific information to any person country. I cannot conceive a situation in seriously seeking it. However, we must face which such weapons can produce any effect these facts-: The policy of the government other than extending the kamikaze way of itself during and after the war, say in the fighting to whole nations. Their possess- bombing of Hiroshima and Nagasaki, has made ion can do nothing but endanger us by en-
+it clear that to provide scientific inform- couraging the tragic insolence of the
+SIR:
+I have received from you a note in which you state that you are en~ag~d in a project concerning controlled missiles, a~d
+in which you request a copy of a paper which I wrote for the National Defense Research Committee during the war.
+As the paper is the property of a government _organization, you are of course
+at complete liberty to turn to that govern- ment organization for such information as
+I could give you. If it is out of print as you say, and they desire to make it avail- able for you, there are doubtless proper avenues of approach to them.
+ation is not a necessarily innocent act, and
+may entail the gravest consequences. One
+therefore cannot escape re9onsidering the
+established custom of the scientist to give cipate in the bow~ing or poisoning of information to every person who may inquire
+of him. The ,interchange of ideas which is
+do not - I must take a serious responsibil- •ity as to those to whom I disclose my
+scientific ideas. Since it
+with sufficient
+material, even
+can only protest
+give you any informationconcerning my past work. However, I rejoice at the fact that my material is not readily available, inas- much as it gives me the opportunity to ra{se this serious moral issue. I do not expect
+to publish any future work of mine which may do damage in the hands of irresponsible
+militarists.
+I am taking the liberty of calling this
+one of the great traditions
+of science must limitations when
+of course the scientist death.
+receive certain
+is obvious that can obtain my
+becomes
+an
+arbiter
+of life and
+effort you though it is
+For the sake, however, of.the scient-
+ist and the public, these limitations should be as intelligent as possible. The measures, taken during the war by our military agen-
+cies, in restricting the free
+among scientists on related
+on the same project, have gone so far that it is clear that if continued in time of :p~ace thi~ po~icy will /1ead to the total irresponsibility of the scientist and
+ultimately these are and entail public.
+to the death of scienc~. Both of
+letter to
+scientific
+er that they should know of it in order to make their own independent decisions, if similiar situations should confront them.
+disastrous for our
+civilization peril
+the attention of other people in work. I believe it is only prop-
+grave
+and-immediate
+for the
+intercourse projects or even
+The practical can only be to kill
+use of guided missiles
+foreign civilians
+and it furnishes no pro-
+military mind.
+If therefore I do not desire to parti-
+defenseless peoples - and I most certainly
+proforma
+out of print, I in refusing to
+NORBERTWIENER
+
+19 The Moral Responsibility of Scientists
+. !
+': ,;
+■American scientists who concern themselves with the ultimate goals of science and the value of its contribu- tions to mankind today find them- selves in a moral dilemma of increas- ing proportions as science and tech- nology appear to have become foun- dation stones for militarism through~ out the world.
+mental as·opposed to applied research and 2) of the fractions of space and atomic research which should be re- garded as military. But by any set of definitions. it can not be disputed that a large fraction of fundamental re-
+search has had direct support of mili- tary agencies. ·
+m tne past several years. research spending by most government ·agen- cies has been cut back because of the costs of the Vietnam war. This in- cludes particularly military spending for long range projects such a!Ifunda-
+While polltical activism may be growing among younger scientists, it still may be asked why there is so little question emanating from the general scientific community concerning the p_resentdebasement of science. There are several reasons for this lack of responsible concern with the militarist character of science today and with the influence of the military in deter- mining its future trends. Let us now examine these.
+In the first place, there are many scientists who regard science and the ·acquisition of knowiedge as an end justified in itself. To be sure, there was
+general revulsion among scientists against the inhumaa medical experi- - ments of the Nazis. But there is still no general agreement that moral crit- eria are relevant in the choice of the directions of science and that certain areas are inadmissible because they are anti-human. There is no generally accepted guiding principle which points out to the scientist the areas of research most worthy of exploration
+in terms of contribution to human so- ciety. Refuge is taken in the notion of the moral neutrality of science;\i,'here the need to attack an infinitude of still-unanswered scientific questions precludes the weighing of moral con- tent. The single goal of scientific re- search then becomes the maximum yield of information.
+While the above may be true with respect to really fundamental re- search, the argument loses its validity when extended to research which is taken with applications in mind. Here the human values of the research must be reckoned in terms of the pro- posed applications although. even here. there may be other incidental "spin-offs" of value to civilian socie- ty. But the research must still be judged in terms of its primary pur- poses. For example. the development
+of a military communication system is essentially military even though some aspects of it may have civilian value.
+In any event. its civilian uses would be more speedily developed if the peaceful aspects of the research and development were undertaken direct-
+ly instead of being mere low priority incidentals connected with high pri- ority military research projects. There
+is no substance to the argument that the specific applications of any piec~
+The universal rationalization 1or the
+diversion of science from the disinter-
+ested search for knowledge is fear of
+the destructive capabilities of other
+nations. Because of this diversion.
+there is an increasingly pathological mental research. The Mansfield trend in science and technology even
+as they rise to higher levels of spec- tac uIar achievement. It is a world wide malaise although most apparent in the more technologically advanced nations such as the United States. It is not solely a sickness of the capitalist• part of the world. It also affects the
+·nation!> of the cominunist bloc as shown by the military pre-occupation of their scientific establishments. as exemplified by those of the U .S.S.R. and China. Nor is it a phenomenon confined to the technologically ad- vanced world. India. a newly develop- ing country. spends the major part of its relatively small research and deve- lopment budget on military projects.
+The world public is becoming aware that something is wrong. The U.S.A. and the U.S.S.R. demonstrate their superb technical capabilities by dis- patching space probes to Venus and landing men on the moon but seem incapable of. or at least uninterested in, solving the urgent technical prob- lems of the industrial age afflicting their peoples here on earth. Outside of improved medicine. few of the spectacular advances of science in._the past decade have .led to significant improvement in daily life. The deteri- oration and pollution if the environs ment continues unabated. and the ills of the congested metropolis grow more grave as thousands of agrarian workers migrate to the urban centers of the world following their displace-
+ment from the farms by technological developments inagriculiure.
+It is difficult to.arrive at an approxi- mate figure for the fraction of funda- mental research in the U.S. which is supported by the military. This figure strongly depends on the debatable questions of I) the definition of funda-
+amendment which requires military research expenditures to be "mission- oriented" has accentuated the cut- backs in the funding of fundamental research. Nevertheless, a large frac- tion of fundamental research can still be regarded as background for "mis- sion-oriented" develop·ment and the participation of the military in the funding of research remains large.
+It is not to be supposed that the Department of Defense distributes re- search monies in the unbiased manner· of the National Science Foundation. The latter seeks to encourage the ba- lanced grow.th of all fields of funda- mental science. The obvious purpose of military research expenditures is to advance military technology. Where this requires the support of certain background areas of fundamental science. the necessary monies are
+made available. To the extent there- fore that the military participates in the support of fundamental re.search. it promotes the preferential growth of selected areas of science of particular military interest. It follows that other fields necessarily become of second- ary interest because of lack of funds.
+In this situation. science as a whole begins to play a detrimental role in the overall development ot the welfare ol man. The scientific-technological complex functions largely as an ad- junct to the military establishment. with its contributions to the better- ment of human life arising as mere ··spin-offs" from its main directions. No section of the scientific communi- ty can be completely isolated from military research in the present highly interrelated and interwoven world of scientific advance. This is the position
+in whic·h conscientious scientists find themsel•es today.
+i I;;
+I I
+         ,
+1
+
+        20
+of research are immaterialas humani- ty will inevitably benefit in the end. This rationalization certainly is not valid with respect to studies of the relative effectiveness of various p.o- lymeric materials incorporated in na- palm B.
+The predominance of science and technology is the most significant as- pect of the times in which we live.. Our every-day lives are bound up with the developments of the science of the past. It .seems clear that the direc- tions of the science of today are shap- ing the kind of world in which we and our posterity will live tomorrow. Far more than in any other area of human effort, research and development get results. Then what are the conclu- sions to be dr;lwn from today's gigan- tic military research expenditures? We must conclude that all existing weapons will be vastly improved and that new weapons and new military techniques will be perfected. Whatev- er exists in military technology which is horrible and barbarous today will become dramatically more horrible and barbarous tomorrow.
+The relation between science and society is a reciprocal one. While science' and technology are shaping the world of tomorrow. the orienta- tions of science are determined by the conditions of the world today. In
+short, we are confronted by a vicious cycle whereby science magnifies into tomorrow the pathology of today. It is the task of our generation to break this cycle._ifcivilization is to survive.
+When we inquire as to the moral responsibility of scientists in this si- tuation, it is only too easy to pass the responsibility along to others; to the governmental leaders and the states- men .of the world. Scientists, it is said, bear no responsibility beyond that of ordinary citizens. But this will not do.
+In varying degrees, scientists and technologists are the prime creators of the threatening complex of destruc- tive potential.
+Yet when the content of this moral responsibility is examined more spe- cifically inany scientists find that it is ambiguous. If we agree that the build- uo for technolo&icalwarfare is neces- sary tor defense against similarly- armed enemies, then perhaps our responsibility as scientists may call on us to improve this build-up. Criticisms of particular weapons systems need not be at variance with approval of the general policy. For example, re- cent criticism of the antiballistic mis- sile (ABM) system was confined to whether it would work, its effect on total military strategy. and its relation to other national priorities.
+The moral responsibility of scien-
+TALK
+tists goes far beyond criticism of par- ticular weapons systems and particu-
+lar wars. The disastrous progress of military technological innovation has made suicidal continuation of interna- tional relations ultimately based on force. The new weapons systems have made us more, not less, vulnera- ble. "Mutual deterrence" has placed the whole world in mortal danger and the most imperiled are the nations which possess the nuclear missiles which are trained on each other.
+Scientists have a special role arid a special responsibility in the reorienta- tion of a science-dominated society. Collectively, scientists have responsi- bility for the social consequences of their work. It is they who must make clear to. the public the detailed im- plications of the present directions of science. Little time has been devoted to this assessment and warning. There
+have been numerous speculative pro- jections of possible specific advances of science and technology such as space travel and the synthesis of liv- ing beings. But the crucial question is neglected; that is, whether civiliza- tion, and the science which depends upon it, will continue to exist. D
+You're a brave man they tell me.
+Courage has never been my quality. Only I thou~ht -it disproportionate
+so to degrade myself as others did No foundations trembled.My voi~e •
+~no more than laughed at pompous falsity·
+zl did no more than write,never denounced ~I left out nothin~ I had thought about ' ~defended who deserved it,put a brand ' ~on the untalented,the ersatz writers E(doing what had anyhow to be done).
+And now they press to tell me that I'm brave. How.sharply our children will be ashamed
+taking at last their vengeance for these horrors re111e1,1beri_nhgow in so strange a t·,
+co1111,1o1ntegr1ty could look like co urage.
+.•• 1ne
+Frank
+Condensed from Fellowship
+I'm not.
+Collins, CSRE
+l
+
+       p
+' -------~--=---'-· _____·_-_·-_-
+"Charles P. Steinmetz, master technician, whoever thought in tenns of human values." - Harry- Laidler.
+--~_...__-~----~-~---
+21
+
+     I I'
+I·
+Ii
+1,.·J.1 t'.1
+1915 Same as 1913, this time Lund and Steinmetz win.
+19lti published 'America and the Ne\-1Epuch' in which he wrote:
+"As a socialist, I took an active part in the llJ years political war of the German Social Democrats against Bismark, succeeded in escaping to Switzerland when the Government tried to arrest me, and after continuing my studies there, came to A~erica.
+I have always retained my interest in public welfare and politics, have held and am holding political office in my home town and am still a dues paying member of the
+~
+~, ,
+. -•~l~·,.:'i'f!,,_i~.'f·'.."~
+Future issues of SPARKwi11 include additional commentary on Charle·s Proteus Steinmetz.
+.. ,~,''1_··- 1 >f11I :.~·•. ;,'.~' _.• •,,- .. - _ .'t'} : ._- ,. ·. :.- .. _·. ·:.- , -.._~ 1
+22
+CHARLESPROTEUSSTEINMETZ
+(father of electrical engineering and social activist)
+1882 entered Univ. of Breslau and joined student socialist club.
+1885 became temporary editor of the PEOPLE'S VOICE, the local student socialist newspaper.
+1888 fled Germany to escape imprisonment for his political beliefs.
+1889 sought refuge in America.
+1892 gave paper at AIEE on 'Law of Hysterisis', ~..hich established his technical reputation.
+1893 became consulting engineer for General Electric.
+1897 published first book, Theory and Calculation of AC Phenoinenon.
+1901 President of AIEE.
+1911 Appointed to Board of Education by George R. Lunn, first socialist mayor of Schenectady.
+1~12 Elected President of Board of Education.
+1913 Lund and Steinmetz run for mayor and President of the Schenectady CommonCouncil on Socialist ticket. Both
+lose.
+socialist
+1922 proposes
+party."
+state-owned hydro-electric
+project his burial
+at Nia~ra Falls. Schenectady
+'
+dies, school~ close for
+1923 Steinmetz
+flies its flags at half mast.
+a li ..@ii.S ,I
+
+s.
+>n.
+For Local Information:
+BrinagltlheGl'hsomneow!
+Entdhedran•!
+ASSEMBLTEh:e Ellipse 11:00 am MARCHD:ownPennsylvania AvenueNoon RALLYO:nthefrontstepsoftheCapitoll:00pm
+NATIONAL PEACE ACTION COALITION
+Mail to NPAC 1029 Vermont Ave., N. W., Wash., D. C. 20005 8th floor
+Joitnhemarcohn
+_ Enclosed is a donation of$ ___ to help build the spring antiwar activities. FUNDSURGENTLNYEEDED!
+_ Please add me to the mailing list.
+_ Please send me _ April 24 buttons (30i ea.) and _ April 24
+posters (50i ea.) _Apr. 24 Bumper Stickers (5~f ea)
+_ Please send me a literature order form for bulk price discounts.
+I am interested in local peace activities in my area. Please
+contact me.
+_~organization endorses the spring antiwar activities.
+Name ----------------------------
+Address ______ ---=--:---:--:----------- Zip ____
+Phone ______ Organization ______________
+_ _
+23
+  :
+
+       24
+aoo8a~TI°@A-SN-£nN~lt{££ltS ~D uPoWtlA<s\lHr
+People who go to Washingtonto speak up against the Of course they are all unwashed long-haired hippie freaksandstudent types who are so affluent that they
+cross state lines to make panty raids.
+Well, on June 4, over 200 of them from N. Y. and
+senators and forty representatives whom they urged to pass the amendment to cut off funds for the war altogether.
+Since they got to meet so many dignitaries we have to reconsider. Perhaps they were not hippies after all. Perhaps they were just well-paid suburban familymen; scientists and engineers "who are deeply troubled," who
+war?
+N. J. donned short-haired wigs, the dignified looks of the
+over-thirtygenerationandtheobligatorygrayflan!elsuits "seeournationfrustratedinitsdrivetowardsocialjusticP.
+as well as IBM,General Electric Research, RCA, Xerox, Kodak,and Brookhavenbadges. And in these way-out get• ups they went to Washingtonto visit their Congressmen.
+They were obviously not recognized as hippies be- ciuse they got to speakto the President's Science Advisor, LeeDuBriggew,hoisapparentlyevenstraighterthanhis boa (if that's possible)because he was described as "a well- prepared out-and-out apologist for the President." (1) They also made it into the almost inner sanctum of the Pentagon where they spoke to Deputy Secratary of War, David Packard. He appeared to them as "an old-fashionedbusin- eaman with old.fashioned ideas" (l)but he obviously was hip enough to tell them that the administration also very muchwantspeaceinVietnam. Theyarebusyworkingto- ward it. he said, through eliminating herbicides and having the defensebudget cut by lower appropiations and in- flation. (1) (That might be called passive action, and a DoW invention.) The group also met with some twenty
+TECHNOLAONODSYCIENCEOMMITTEE (TASC)
+l~C1! 1 groupof people centered in Palo 0 • workingto hannonizethe effects of
+our current technologieswith our hopes for Americansociety". TASCbeganin early 1968whena groupof local scientists gotJ.togetherto discuss howtheir govem-
+men~sinvolvementin SoutheastAsia impingedupontheir professional li'ves T~egroupnownumbersabout 300people·
+wose concernsrangeover a broadarea Projects includestudyingwaysscfenti;ts
+and general economic well-being" and who "shudder at the atmosphere -ofhysteria and anti-intellectualism that the war and its .byproducts are engendering." (2) For many of them this trip to Washington was their first involvement in politics. It is remarkable indeed that some of the country's mosthighlyeducatedandemulatedmenaresheddingtheir traditionally apolitical role. One of them said, "We have nothing new to say-we are merely taking our turns at the
+barricades." (2) Different political groups may be perceiv- ing the barricades differently, but it is important to realize that in the arena in which blacks and students first began to struggle the spectators of yesteryear are now getting in on the act
+(l)"Scientists Report on Washington Mission" by Dr. Rich- ard Orgassin Yorktowner,June 18, 1970
+(2)"Dissent Spreads to Nobelists, Industrial Scientists" by Philip M. Boffey in Science, June 12, 1970
+B. F.
+Looking for a chance to use your Science for the People? SIGN UP FOR TAP
+· (Technical Assistance Project)
+If you want to work on Sound Systems, Automobiles, Communications Equipment,
+Chemical Analysis, Self-Defense Mechanisms
+write: Science for the People, Box 59,
+Arlington Heights, Mass. 02175, or call
+'Scot' 491-8725 or 491-1850 ext. 305 Theoretically trained? We'll help you learn
+practical skills! t
+and engineers can influence political economicdecision making,alleviating sources of local racial tension and
+and
+~henyou are finished reading this paper, pass 1t on to one of your friends. If you don't
+:ant to part with it, makecopies and distri- ute those. Shouldyou be one of those few
+~howantto discard the paper, don't throw iti away-_recycle it. For a complete list
+recyclmg centers (for a11 types of reuse- 0 1
+a e '!1aterjal) write the Earth Action council at UCLAP,.O. Box24390 Los Angeles :oo49. Requestsmustbe accomp~niedby a
+1u2siness size, self-addressed envelope with cents postage.
+~!e~~~:~ngt~e impactof techn~logyupon
+( a TASCf~~~ero)nnaenAt.nygroupof members
+1
+canworktogether to topic of commointerest.
+.expore I
+Contect:TASCP.•o.Box952, P.aloAlto
+California94302
+-
+DON'THROTWHISPAPERAWAY -RECYCILTE-
+I
+\
+I
+
+         From the people whobrouPt you Vietnam:
+-~.".'.-·.---------'--~.---- The anti ballistic missile system.
+They're mad
+They'reabsolutC'ly mad
+Everyone can stt that things at home arC' g('tttng
+worse all the ume. and that hnl(' or nothing is being don(' about it
+The last thine in the world wC"ne-cd is to spend six or eeven thousand milhon dollars for th(' down payment on ananti bal1_11tic missilr s-.·stem
+Bul what can you C'XP'«t from th(' 1ype or mind that
+Col us into Vietnam in the first place. and that kC"eps orii::,1nJlr-st1m,lte
+for a
+statC" of
+plunginc us back in for one-\ast-v1ch1ry-try ev('ry timC' it looks•• thouch we mtG,ht finally extricatC' ourselves
+Mr. Nixon and S«retan· Laird and their advisors in the Pe-ntagon sttm to ha-.·C'iost touch with rt"ahtv
+SANE "
+ABM svstt"m will g,C'thr-,n.-1er,tnd hC'a,·1r-ras 1tg('l('s 1 381Patk A\·C"nut>South Nrw York NY 1001b
+- t 1
+I
+TMre •rebombsiorn,lolf cominglromChinaort~U
+,nourcit1C's, but thrr·rC' not S SR
+O I .,.,ant to part1c1patc- m )'Our work ~t mr kno.,.,· 1£ thrrr
+I
+TM air 11·ebreall~ is bf-rn,l po,sonC'd. but ,r's not bf-m~ done by enemy •,lents
+Man)' A~ricans no lon~rr brl1t\·r what tilt Govt"rn- me-nt tells them. but it's not t>Kaust" t~,· /,strn to Radio Noecow. ·
+T-,oJdrnFort Knox rs. fora/I pract,cal putpos#:S. no longer our own-but tilt job ""·•sn·r do~ b}· Go/dlin~C'r orSmenh.
+1
+QSc-nd _p,.-,stc-r Namr __ _ Addrt>U
+\1ZC"TC"pnntsofth1sad,
+ThC"war and wC"apons ~oplt' have becomC" soobses~t"d with lnternat1onal Communism. thC"Yfail to see that
+lot of Senators-including conservative f('el thf'y werC' "had .. by the infamous
+they lhC"mS('IVC'aSrC' layinJ: tht hom('-grown anarchy
+pc,und~·ork
+A few obMn■tion• on the A.B.M.
+Thefigurt"th('VUSC1'ssix.orst',·C'nh,lhondollarsBut this isJUStthC'WC"il-known fl,11111t1hC'door
+Experience" with PC"nta~on prll!:-uremC"nt in th(' past
+ind1c-,-ur-s thdt dctu.il costs
+Our m<1rch1ng song hascomC"again
+. ,,,,.' '\',',j•,t·
+run two or
+FurthC"rmorC". thC'rC'lSC"\'C'r\h'kr-llhood that thC'··hgh!". 1 , Phonr. 889"3442 I
+alonG,.• ind would milhl,n doll.1rs
+u\t1matC'ly
+cost ovC'r fifty
+thousand
+Hrrc- 1~ mv contribution
+CTStOCl C2$;D =SH ':. SW = I
+All this ll'f a ··M,1ginot Linr- in thC' Sky·· (as thr-N \' T1mC'sdC"sl·nhC'd1t1n .1 rr-cr-nt C'd1ton.1I) _!hdt would most like!\· hC'otisl,IC'te hv the timt' 111sop<"r.tt1vt". and wind up as su.rplus C"lr-ctron;CJ'Unk on Can,tl ~trC'el
+Meanwh1IC". hack in thC'U S SR .dl, you think "thC'1r·· hawks would bestand,ng still for this.,
+What ca •• do a"bout it?
+Unfortunately, the Pentagon d~sn·t seem to~ able
+S_·__ I
+to IC'arn from n.periC'nCC'. but WC'wouldn't for tht' U S Senate'
+g1vC'up hor"'
+thrC"e times thr-
+TherC' arC" a
+Repuhhrans-who
+Gull of Tonkin resoluhon. and this time th('y don't seem 10 N" buyin~ thC' Pentagon·s big pul;>lic relations cam- pa1~n on the A B M
+This thin~ can be stopped in the Senate. But it will t.1kt:"the kind of grass roots' dfott that did so much to ch.i.nJ:c:"tht" pohttcal c-hmatC' on Vietnam last yt;:ar.,
+---------------------------------,
+,~ anythmg t can do Sprc1al sk1Jl______
+_ I I
+S200t>ach I
+______
+5tate---~•P--- SANE Ma'kr cht>cks payabk to
+/
+25
+
+       ' ..
+I•.•• 1·',
+26
+-· - - -- --·-·-- ····-·--·------------
+McCracken'sAnti-ballistic
+If the System 360 Operating System had s;ooo mistakes after it was fully tested by IBM and released
+to costumers-- how is it possible to expect th~ antiballistic missile (ABM) computer system to have no mis- takes at all?
+This is the question asked b~ Dani~l D. McCracken, chairman of Computer Professionals Against the ABM, who has begun his second annual campaign to convince the Senate that the ABM c·omputers won't work.
+Le~rning fr~m his lack of success
+last year, McCracken has turned the campaign into a fulltlme job--speak- ing to professional societies in states with uncommitted senators and buttonholing the senators themselves.
+This year he has more help. A pub- lic relations firm has volunteered
+aid, and the members of the organiz-
+ation's executive committee are tak- - Ing a more active role.
+Members of the executive committee are: Paul Armer of the Harvard Program on Technology and Society; Joseph Welzchbaum, Professor of Com- puter Science at MIT; and Gregory P. Williams, a computer technologist in Phoenix, Ariz. The committee itself reports that It has over 500 members from the computer profession.
+McCracken cites three reasons why he believes the ABMcomputers won't work.
+1) Realistic t~sting Is Impossible because it would require nuclear ex- plosions in the atmosphere.
+2) The precise nature of the comput- ing task can never be defined because
+the enemy is always Improving Its countermeasures.
+3) "Evolu-tlonary development critical ¢ to the success of every known suceess-
+ful computer system is out of the quest-
+ion. The Safeguard computer would never
+be given a second chance."
+¢
+¢
+s ,. $
+¢¢ ¢ ¢
+¢ ¢ ¢
+•',':· .'.'"i -,;_;,.
+Missal
+¢
+¢
+¢ $ $ $ ¢ ¢ ¢ $ s $ $ ¢
+I
+~
+¢¢
+$
+$ i ¢¢ $$$¢¢
+¢
+
+             l
+~
+Specific evidence of allegedwar crimes is also availablenow through the investigations of the National Committee for a Citizens Commission of Inquiry on U.S. War Crimes in Viet- nam. Hearings at which veterans have testified have occurred in· 13 cities during the last year. Testimony has focused on four separate areas:
+(1) Ground combat operations (search and destroy, free-fire zones, "Zippo squads", etc.)
+(2) Treatment of civilians and/or prisoners by U.S. forces (interrogation and torture, detention centers, civilian prisons, etc.)
+(3) The air war (saturation and pattern bombing of civil- ian centers use of cluster bomb units, napalm, white phosphorous, helicopter gun ships, defoliation pro- gram, general destruction of croplands, forests, rivers/watershed, etc.)
+(4) Pacification and resettlement of civilian population/ refugees (destruction of "New Life" hamlets, barbed-wire concentration camps, civilian prisons similar to Con Son).
+*Nuremberg and Vietnam: An American T!'IFdY, Telford Taylor, New YorkTimesbook,Sl.95
+THE VOICE OF SCIENCE ON CAPITOL HILL
+F. A. S. NEWSLETTER
+203C St. N.E. Wash.D.C. 20002 202-546-3300
+Membership$:15.00 Student: $7.50
+27
+FEDERATION OF AMERICAN SCIENTISTS-Founded
+A national organization of natural and social scientists and· engineers concerned with problems of science and.society.
+HerbertF. York,Chairman Vol.24,No.3 MarvinL.GoldbergerV,iceChairman
+March, 1971 JeremyJ.Stone,Director
+AM·ERICA AND THE USE OF FORCE
+The Federation of American Scientists is a quarter century old this month. Twenty-five years ago, its founding members were startled· into political activity by the moral and social problems posed by nuclear weapons. American military technology, and American willingness to use that technology on Hiroshima and Nagosaki, produced FAS. Again tod\)r in Vietnam, American technology, and its willingnessto use that technology in war, are posing important moral and social problems.
+In recent weeks, a wealth of new material has appeared bearing on three relevant science and society questions. Is America committing war<rimes in Vietnam with a weapons technology that is necessarily indiscriminate in its destructive capacity? Can the civilian leadership of industrial-bureaucratic states be trusted with the use of such force as science can provide? Is the military establishment a threat to American society?
+WAR CRIMES IN VIETNAM?
+"If certain acts in violation of treatiesare crimes,they arecrimeswhethertheUnitedStatesdoesthemorwhether Germanydoes them,andwe arenot preparedto lay downa ruleof criminalconductagainstothen whichwewouldbe unwillingto haveinvokedagainstus."
+Justice RobertJackson Chief U.S. Prosecutorat Nuremberg
+No one has a better right to raise the question of American war crimes in Vietnam than General Telford Taylor, the American Chief Counsel at the post-war Nuremberg war<rirnes trials. His book "Nuremberg and Vietnam: An American Tragedy" raises questions that no American can lightly dismiss.• Taylor concedes that a judicial determination of the legality of American participation in the war would present "enormous• difficulties" to any court and especially to a domestic court. But he has acknowledged that General W~stmoreland "might" be convicted if world war II war crime standards were applied. Every citizen should read this book and judge for himself whether he could consider American military tactics to be war crimes if, for example, they were pursued by some other country..
+Both sides engaged in strategic bombing of cities in World War II and as a result this issue was not raised at Nuremberg. But in Vietnam, it appears that hamlets and villageshave been bombed or shelled simply because a shot was fired from them at Allied aircraft or a mine found nearby. Taylor points out that a U.S. MarineCorp leaflet declared "The U.s: marines will
+not hesitate to destroy immediately any village or hamlet harboring the Vietcong". Reprisals of this kind are certainly not permissible. When the Germans shot French hostages for the loss of German soldiers to nearby ambushes, we did consider it criminal.
+Taylor po1rtis to the "free-fire" (artillery) or "free-strike" (air) zones. Here mass evacuations precede ground rules that permit firing at anything that moves.
+But these evacuations are inevitably incomplete, in the conditions -prevailingin South Vietnam, considering the degree of control of Saigon and the degree of literacy, and responsivenessto Government, of the population. Americans have turned prisoners of war over to South Vietnamese where torture is frequent. It is a violation of Article 12 of the Geneva Convention to tum prisoners over to powers that are not observingthe requirements of the Convention.
+Taylor's book is going to pose a problem for the Administration. It triggers the sensibilities of the young and forces the Administration to come to grips with those emerging moral attitudes that refuse to suppress an awareness of what it is we are doing. As the Administration concedes that the war should be terminated promptly the public will wonder at the pointlessness of U.S. military actions. And in a cooler atmosphere, serious retrospective questions will be raised. No involved public official can now ignore the possibility that he is implicated in some way in war crimes. ·
+THISIS THEFIRSTPAG_EOAF SIXPAGENEWSLETOTFEFRAS. THEARTICLWEASIGNEBDY THEDIRECTOFRFAS. FASIS ACTIVELSEYEKINGEWMEMBETROSUPPORISTREJUVENATION.
+1946-
+
+      /,1·'.· '.. :L -
+1
+28
+HANG UP
+ON WAR!
+Join With ThousandsWhoDo Not Pay the10%FederaTlelephone"War'T'ax
+WAR TAX RESIS..-.\'.'.('E
+JJ9 l.afayrlte Street, Se" \"ork. ,.\". 10012
+In April of 1966, as the government was escalating the Vietnam war, Congress passed a law raising the Federal tax on telephone service to I0%."It is clear," said Rep. Wilbur Mills, Chairman of the House Ways and Means Committee, "that Vietnam and only the Vietnam operation makes this bill necessary." (Con- gressional Record, February 23, 1966)
+One effective way of saying NO to the endless los:. of lives in what is now the longest war in U.S. history, of resisiing a government that is ignoring serious social deterioration and becoming more repressive at home, is by joining the thousands of Americans who are refusing to pay that "war" tax.
+WHY BOYCOTT THIS TAX?
+A tax boycott demonstrates to the government that you are opposed to the Vietnam war and are act- ing conscientiously on your belief. This act of refus- ing to pay the tax concretely affirms the position that individuals must not comply· with immoral actions of governments. It results in a direct confron- tation between citizen and government, and creates just one more problem the government has to con- tend with so long as it pursues its current policies. In addition, the fact that people are willingto resist the war to the point of breaking the law compels othe.rs to examine more carefully the depth and nature of their own opposition to that war, a11dto begin to act themselves. Finally, the monthly refusal of a small amount of money creates a thorny collection prob- lem for the Internal Revenue Service.
+WHAT HAPPENS TO T.ELEPHONE TAX REFUSER$?
+Many thousands of people - in all parts of the country - are deducting this "war" tax from their telephone b'ills.In virtually every case telephone companies have assured the refusers that their tele- phone service will not· be interrupted. The phone companies usually treat refusal as a matter between the individual and the government. In some cases they have even called to remind a customer that on the bill he has just paid he has forgotten to refuse the tax.
+The telephone companies report to the Internal Revenue Service that the tax is not being paid. The IRS eventually sends the tax refuser several written de~1~ndsf.or the unpaid amount and usually pays him a VISlt. \\ ~en these measures fail to get him to pay up, the. IRS hnally attempts to seek out a bank account or salary check from which to deduct the unpaid amount plus up to 6'~·interest.
+
+               i?
+\
+\
+ii
+y
+~~'\>---''\~:;_ ~~~·J~.,'~?"\~tP·.,..,~
+~~'"':"ci.,.t'f-\!\§.tT,'t;<~~~~~~~~~~:;i~' 411WV,llJ•W~i&\r,):21v-.4K..°i~";_-<...,---...,.,;;;;;·;--,.,_,,.:-;-:-;:-- ~1i-':1:~rrrP'i..'.(~~•i'!'.rff~~~l""l',•?~l~f.U:R!?.tror:U~i#~~,11'ttC
+-._..
+lH , ,
+_..., .,-S~'t"'IM~Y'".'!TT
+~.,,.__~
+~
+. _ _
+''l =n ="
+-----------·-'-'-·--
+s.. "'• ,_, ,..... , ,... ,.,.......... c,.,, ,., ........ ,i.ft ... .
+AliA · CON
+,...,.._...,
+Vil
+'l'AX IU3ISTANCB
+• Ch• .. • t., cell•
+212 477 2970 811
+JU 0470 AMOUflT
+INClt.. TA.■ 660
+6!03
+I
+2162
+• Y••• .... 1..... Office
+339 W'AYE'l'TI S'l' 1W YOH BI
+• ,_.,.,
+l•c•tl••
+10012
+.TATI TAI ANO ANY 1.0C.t.1,. TA ■
+:-34,
+:31 :14
+!
+MONTHLY CHARGE FOR HltYICE
+ADDITIONAL111hSAGEUNITS • ._, ....
+CALL$ AND TELEGRAMS • &,,,lice
+OTHER CHARGES OR CREDITS • 1.. 1.,-,1.,. e11clHN-----►
+AX REFUSALAND THE LAw---------------
+·- ------------------
+lmpollitio11 of the telephone tax ii coftRd by Section 4251 (a) of the lnternal Ren11ue Code, which reads, "The taxes Imposed by thil IICtioa lhaJI be paid by the penon paying for the llffices."
+Thil ~n ii ampllfted in the Internal RffMlue Reaulatiom.Section 49.4251-2 (c) LIABILITY !~_!l..A1ND RE1l.lRN OF TAX: The taxea lmpuma by Section 5251 are payable by die ,-- e~inl for the enlce rendered, and Iha&be paid to the peno11renderillg the aenlc,a, who la n,quind to collect the tax and l9Qlffl andpay - the tax In accordance with
+. the applicable ,-illiona of the aeplatioM con- tail..tIn Subputa F and G.
+A.ccordlntol the Commerce CleuinaHouae
+1966 Excill Tax Gulde, Parapaph 2235 on
+Collledon or Tix by Another Peraio.n,''Certain
+mlsellamoD1taxeaareimpo■ed on the penon
+llllt;I.._ the payment but 1119iequlnd to be col- raila to pay" the phone tax could poallibly be lec:ted1'y the penon ~ the payment. All·•.chua,ed with a misdemeanor, under .Section taxa collec:ted111this 111&111mareheld by the 7203"of the Internal Revenue Code, and be im- collecdn1a1p11t In tlUlt for the United State■ prilonecl for a·pedocl up to one yeu and fined untl pala - to the dlltdct director of lbter- an amount up to $10,000. It ii abo pollible 111r1eftllue. If the penon from whom the tax ii that one could be chused with attempt to
+lllqlllnd to be collectedrefuses to pay it or if for any other NUOn it ii bnpoalble for the ~ lectl• apncy to collect the tax from such per-
+"evade or defeat" the phone tax, under a ~ tion canying a stiffer penalty.
+However experiences or objecton to other
+'
+federal wu taxes during the put several years
+Indicate that the government would not be :In· temted in pn,llinscriminal charges, but_thatlt would Instead try here or theie to collect the
+I -• the collectin&
+the factl to the dhtiict dinctor or Internal nY-
+enueand the tax will then be collected by dt.
+tdct --nt apinat the penon failing or• I l\amtato pay the tax to the colectin1 apnt."
+•nc
+iequlnd to report
+11111te-••N<il 75 ., 104
+• .......
+NOMI ICON-O•CALL .._
+..la S.. St••-••-
+IALANCE FROMLASTBILL • PINH ,1,.,.... ,1•1•_, If,.1,1
+.. ~,~0N1~04k~-~,rw-p~--~----,-o-,-.-L---~
+Hall Fedenl Taxes, Excise Volume, Puqnph 189.514-A, with a reference to Statement of Procedural Rules CB 1955-2, Page 977, Section 601.493 (c) (2).
+Thia Indicates that the ultimate respollllbil- ity for P&Jffll,or refusing, the tax lie&with the telephone user, not with the phone ,company, · and that If the user refuses to pay the-·tax u billed; the laae wfil be settled clirectlYb,etween · him and the Internal Revenue Service; fhrollib itl standard collection procedures, rather than by termination of telephone servke. This a1ao llffl'S with Informal opinions gwen by· rep• sentathes of Illinois Bell Telephone Co. and the Chl.cagoDistrict offlce of IRS.
+Don't pay this tax.
+HaYingdealt with the question of tax liabB- ity, and collection procedures, it mlpt be well, for the record, to mention the mbject of Clim- lnal penalties for tax refusal. One who "wlffially
+Send a lette.r of explana- tion with your check to the phone company (we have cards you can use instead of a letter).
+Inform your Senators and Congressmen that you are no.t paying the phone· tax.
+Let us know that you are not paying it,.tco.
+Exactly the 11111elangu• appearsin Pmttlce tax (with Interest). -------~-=-=-=-=-=-==-=-=-==-=-=-=-=-=-=-==-=-=-=-=-=-=--==-=-==-~-=-=-=-=-=-=;..·-----~·
+a- of Am__m,ilitaryaction In VietnamI amdeductingthe Fedlrll ta flam my telephone billpaymentL
+Signed · Date __________ .
+DYou '!'BYm••-',T!Yn8!"• public as OPlease•nd more copiesof this leaf•
+• participant
+·Name ______________
+Address__________ ---------------
+In th11action.
+let. Price: $1.60/100; $10/1000.
+0 Plea• •nd 12 cards explainingmy position to the telephone company
+(suitable for enclosure with bill pey-
+ments). Price: 25'.
+Please send the HANDBOOKON
+NONPAYMENTOF WARTAXES
+(essential reading for tax resisters). Price: 5~.
+Return this
+coupon to:
+War Tax Resistance 339 Lafayetle Street New York, N.Y. 10012
+(212) 477 2970 777 5560
+0 Enclosed is my contributiOQ of $___ for theworkof WTR.
+i i
+, 0 ..., ..S
+!f;t.
+-
+
+             30
+'I ,l
+•. :.
+1 -
+: :.,_,_:·.
+__ : •
+Director:BEN TIPTON
+EMPLOYMENTCLEARINGHOUSE
+A Non-Profit Organization Placing Scientists and Engineers In Non Defense-Oriented Jobs
+200 California Avenue, Palo Alto, California 94304 (415) 327-8427
+Employment Clearing House.- a non-profit organization placing scientists and engineers in non-defense oriented jobs.
+WHAT: There is a growing concern among many scientists and.engineers that their talents and energies are devoted to defense work which too often results_in the destruction of other human beings and valuable resources. At the same time society is faced with pressing social and ecolog- ical problems. The Employment Clearing House has been formed to do something positive about this situation: to help scientists and engineers currently working for defense oriented firms to find employment in non-defense oriented companies, preferably those with positive social goals.
+HOW: The Employment Clearing House receives resumes from competent scientists and engineers seeking non-defense oriented work. These are well qualified and highly motivated individuals.
+Employment Clearing House staff, with the assistance of a panel of knowledgeable scientists and engineers, review resumes and arrange employment interviews with companies which the staff have previously contacted and which have employment opportunities in the area of the employee's inter- ests and skills. The Employment Clearing House also maintains files with background information on companies for the use of job applicants.
+FEES: There are no fees for the jo-bapplicant for the services of the Employment Clearing House. All fees are paid bythe companies.
+DIRECTOR: Ben-Tipton, the Director of the Employment Clearing House, has extensive experience in personnel work with scientists and engineers. Previously he administered the Employee Educa-
+tion Program while with the Stanford Research Institute, and was in personnel with the Arabian American Oil Company, and with the Southern Pacific Company.
+SCIENTISTS AND ENGINEERS seeking other employment should send a resume to the Employment Clearing House and phone Mr. Tipton for an interview.
+COMPANIES wishing further information about the-Employment Clearing House or having positions available should call Mr. Tipton.
+
+           MilitarAyc.ro~ ~
+Bi4o
+-w
+ai:r£a.rc. Atomu{kGailU,
+r
+EMPLOYMENT.CLEARING HOUSE
+♦ !.colof,'J
+• ,.,,...... .a.aa. + W,tcrMW.- Cntn1 + .lirNbau ~
+Comito-~, + WarWralmPlr(o,pm,+·ta=:::!:!:::la!:=!:!::i:!!!!::::e,!::ie:~=-==!:!::::1:!:!:::d!::~:::!!::t!!!::=~
+~ ~ ~-- A Non-Profit Organization Placing Scientists and Engineers In Non Defense-Oriented Jobs
+The Employment Clearing House is a bridge by which scientists and engineers may cross from the environment of the defense industry in which they have been working to one that is non-defense oriented and relevant to the critical needs of the world today and of the future.
+It is our view that a massive movement of talented scientists and engineers from occupa- tions involving overkill and weaponry to life-affirming and socially constructive employment
+is one of the necessary changes that must take place if we are to move our technology in socially beneficial directions.
+The Employment Clearing House is an outgrowth of the Technology and Society Committee (TASC)in Palo Alto, and the TASCforce for Constructive Alternatives·. TASC is an organization of scientists and engineers working to harmonize the uses to which technology is put with our hopes for American society.
+The Employment Clearing House has an immediate and pressing need for funds if it is to sur- vive and carry out its work. ECHneedA$10,000 starting capital for this purpose, which we are trying to raise as either tax-deductible contributions, or as 2-year interest free loans.
+Your help is urgently required now in order to move ECHfrom the planning phase to a real and constructive force for social change, here and now in the BayArea.
+May we have your help?
+O Tax-deductible contribution
+OR
+□ Interest-free, two year loan name
+address date
+□ $1,000 Patron
+□ $500 Benefactor
+□ $100 Contributor
+□ Other-specify
+Mail your contribution to:
+EmploymentClearing House 200 California Avenue
+Palo Alto, Calif. 94304
+31
+
+                 1!I I'' ii
+Mr. CeJJernotes that most
+.)-f-,_.~,·f•
+'•. L.~--~-'---'--C.~------ ,_
+,r· ,-,,. <r;,-~ ...,.l-;,--ti 1 ; -~.:;_,·'i_-'J~l\.:1·:1.-J .!.,·J
+32
+underground
+papers
+11~Jhatever they're called, underground newspapers or free
+th~ unofficial journals have become a present_da~ phenomenon on hig·h school and_college campuses, and are beg1nn1ng to surface
+in industry:."
+from invitation to a meeting on underground
+papers, held by the LONGISLAND COMMUNICATORS
+E. Celler. It lists groups in- terested in such causes as civil rights, peace, consu- The recent proliferation merism and ecology. It also
+"The organized interests
+"The Challengers"
+learning. The are learning and subsequent pressures how to use the laws, the are not a fad, not a tempo- media, public opinion and other pressures.They are for .the most part, young, ener-
+of various groups dedicated includes public interest law business world in one way or well as "militant and. terror-
+another has left many busi- ist groups."
+nessmen confused as to who In addition to the names is attacking them and why. and addresses of the vari-
+The Public Affairs Council ous organizations, the book- a Washington-based associa- let also lists their key per- tion of corporate public af. sonnel and gives capsule fairs and urban affairs offi- descriptions of. their aims cers, has sought to answer and operating procedures. some of the questions by ·"Corporate confrontations preparing a. booklet direc- are just beginning," warns to:r of these organizations, Mr. CelJer. "The executive which· range from the Sierra who has traditionally con- Club to the Black Panthers. ducted business behind the
+The booklet is called "The closed door of his office or Challengers: Organizations board room is being pres- Dedicated to Changing the sured into the public arena, Private Sector of America" and he had better learn how and was preparu by Roger to function in that arena.
+disappear by being ignored. to changing practices of the firms and organizations as Today, the pressures are
+ASSOCIATION. (An association house organs.)
+of company
+::3unday, Yeb. 2b, 1971
+N. Y. 'l'imes,
+Business and Finance ,I'age 3
+The above two items are only a few of the signs that the unrest in this country is not exclusively limited to students.
+_The Brook~aven Free Press is now a year old. We have had
+ten issues during the course of the past year. Each issue has
+~een ~ μages photo-offset. Wehave printed 3000 copies of each
+issue so that each of the 3000 workers at Brookhaven gets a copy
+free. We are reprinting here the front page of our first two
+Issues. The Sta~ernent of· Purpose from issue fl explains our
+m~thod of op~rat1ng. TO_DISP~L MISTRUST is a reply to the
+1~1xed reception of our first issue. Subsequent issues have been generally well received.
+. Weare willing to help any group that would lik~ to start 1ts mm paper where they work. For further information please
+condct the Brookhaven Free Press, POBOX395, Upton, N.Y. 11973.
+rary phenomenon destined to
+getic, well educat¢, sophisti-
+cated-and effective." Copies of the booklet are
+availablefrom the Public Af- of these groups are com- fairs Council at 1601 18th prised of "sincere, zealous Street, N.W., Washington,
+people dedicated to working D.C. 20009. within the system," are Tela-
+tively new and sporadically
+fi¥nced and are often formed
+arpund a single person, such as Ralph Nader They are becoming ''increasingly so- phisticated,'' he adds, paiticu- larly in ithe use of Jaws and lawyers.
+''While these groups may be underfinanced and seem- ingly loosely organized," Mr. CeJJer declares,. "they are
+only moderate. Tomorrow they will intensify."
+press,
+
+                 ree
+The function of the FREE PPSS is to provide
+a free press; to publish information concerning
+the Brookhaven conmunity such as union activities, civil rights actions, etc; to provide a forum for any discussion concerning the community such as the pension plan, local pollution issues, etc; to provide an outlet for grievances of general inter- est in an open and non-paternalistic fashion.
+Support written and
+your local financial
+FREE PRESS through contributions.
+management without ratifying
+After having been threatened with lockout and the possibility of lay off, at their discretion and not by seniority, the Union requested,and received
+a stay of execution and now functions under the 1967 contract; temporarily. Cont d
+We need each
+other.
+THE BROOK HAVE N
+The aim of the FREE PRESS is to have a free
+and open forum. All written contributions (ar-
+ticles, jokes, excerpts) and cartoons will be
+published on a first· come basis provided they
+are signed, typewritten and within the size limit.
+Any article by a non-lab member must be sponsored
+by a lab member. All names will be printed. The
+newspaper will expand to fill the demand. Any
+articles not published due to lack of space will
+be included in the subsequent issue. There will
+be no more than one free article per person per
+issue as long as there are any other available. :PROUDPARENTS
+There will be no editorial board and no editing. The staff _is completely open. All are welcome and encouraged to help. Defamation, personal abuse and general lack of decorum are strongly discouraged.
+The FREE PRES~ will be financed by contri- butions, subscriptions mailed to the home, and paid advertisements. There will be no charge
+for any written contribution. The distribution will be lab-wide.
+All contributions must be typewritten in columns 4 inches wide and no more than 10 inches long (a maximum of 375 words, single spaced). Since we use photo-offset, the copy must be inmediately photographable. Each copy must be signed and a telephone extension given for verification.
+The written and monetary contributions are
+to be sent to the Brookhaven FREE
+Box 395 1 Upton, L.I. Subscriptions
+per three issues are obtainable at
+address. Paid advertisements are
+times the printing cost, or $2 per
+Checks are payable to the Brookhaven FREEPRESS.
+Volunteers are encouraged and solicited for the distribution and the work in general. They should write to the above address.
+assistance; by open letter, of all interested_ employees, in order to indicate to ~nagement that this was not a case of the 'tail wagging the dog', but a matter of deep concern with a majority of Brookhaven employees. You responded by giving us 1200 affirmative replies suggesting many proposals for changes in the system.
+The Laboratory responded by refusing to create or assist in the creation, or joining in any dis- cussion on any level, other than; the small group. captive audience establishment-type meeting. They have said that they do not wish to create a rule by referendum at the Laboratory. They further in- dicated that they were satisfied with this pater- nalistic fiduciary method and had no immediate
+PRESS, P.O. costing $1
+the same charged at four
+column-inch.
+33
+re,,
+During late 1969 and early 1970, Local 8-652, G.C.A.W. attempted to impress the management of Brookhaven National Laboratory with the necessity for having a forum to discuss the effectiveness
+of, its current retirement plan. We solicited the
+intention of changing it, regardless people objected to it.
+of how many
+After four months of negotiations ratory, Local 8-652 broke off
+with the Labo- negotiations with
+a new contract.
+
+                     I I
+1I
+I
+the function of this laboratory
+and is
+34
+CJ.J' ,.• I
+~.1.:. •-~• ::·
+,!,•~ ,~,!,'•.:•,I'..' ..,,"::
+of each
+other as h\D&n beings. . --Sanford
+thestaffforthisissueiscompos edofthefollowing:audreybiitc' nermaryhalltomkitchensjoshko ppaandylscksgeorgealondonmar ksakitternieurvatertedwemtz
+with
+as their private orderlies, feurs, their gardeners,
+This should not at least civilian life.
+There is something probably pathological in
+their chauf- their cooks, etc,
+continue into
+pathetic and ".mat:ure" men
+T H E B R O O K. H A ·v E N ·ree re,,
+TO DISPEL MISTRUST
+It appears that the first issue of the Free Presa aroused suspicions among aome of ua at the Laboratory. Maybe this is a symptomof the gen- eral mistrust between people here, particularly
+in regard to matters of race, religion, politics and aex,
+To dispel 'such mistrust we have to under-
+'"ANDYOU WILL 8£ PL&ASED TO IIIA«, 'W£°Y~ Tll«#fO Tlll. cottlJEt. ,,., $Otrnl•
+E4KT ~~
+stand each
+reaentativea
+without an
+should enhance interpersonal communication and foster greater understanding, Such·a newspaper also benefits the Laboratory Administration by relieving it from the responsibility of publi- cizing "controversial" material. No longer will the Administration be accused of interfering with the self-expression of employees or of suppress- ing the discuaaion of controversial matters-- diacuasion which may be essential for the reso- lution of tensions underlying a controversy.
+This leads us to the concept of a Laboratory coanunity beyond the official establishment of a place to work. For the Lab is also a place where we aee people and interact with them. For many of us it ia the moat important area of inter- personal life that we have, aside from our families, In order to preserve our humanity, we need to broaden our view of the Laboratory so
+that it is more than a strictly mechanical institution for work,
+In general we seem very reluctant to expose our thoughts to others, Thia stems, perhaps,
+from the complexity of our society, in which so many people are thrown together without really getting to knowand respect each other, In place of respect we seek shelter in privacy. However, the crowding together offers us an unusual oppor- tunity to broaden our understanding of others.
+Dl the long run increased interpersonal communi• cation may be essential to the maintenance of harmony in a complex society.
+As long aa the Free Presa holds to its avowed aim Qf providing a forum for the expres- sion of personal opinion regardless of point-of- view, it merits support by all of us who want to dispel the mistrust that hinders our appreciation
+other aa persons, rather than aa rep- of groups or sides. A free press--
+editor interposed between people--
+Lacks
+May 1970
+NORG FUNAND GAMES
+I object to the special treatment
+given tu the Naval Officers Reserve Group
+which is, or should be considered, .official group with stnong political
+a non-
+connotations, and
+by the Director's
+ber, 1969. A NORGhas nothing to do with
+inimical necessary object to
+to the spirit at the lab. the inclusion
+of free In partic- of the
+thus presumably
+directive of 12 Novem-
+probably
+inquiry
+ular, I
+meeting notice of only this group in the Weekly Bulletin calendar. I object to the showing of films in Berkner Hall, which other groups have been denied. I object to the frequent co-sponsoring of lectures by the lab and NORG.
+·
+are accustomed such as enlisted men acting
+This special treatment is consistent the fringe benefits to which officers
+covered
+Cont'd
+
+                  A NEWSPAPERBY ANDFOR THE EMPLOYEESOF BBN
+VOL. 1 NO. 1 EDITORIAL
+This newspaper was conceived by a diverse group of BBN'ers who feel that all is not well---at BBN, in the U.S., and in the world. We do not. all agree on what the problems are, much less on how to solve them. We do agree on one thing, though-that no real
+MAY, 19{0
+THE SECRETSALARY: SEPARATED ANDUNEQUAL
+Unequal pay for equal work is one of the many inequities of our society. It is an inequity that exists here at BBN. That it
+exists here is a reflection of the situation of the society at large, BBNdid not create or in- vent the problem. But it is an
+changes can occur until people
+begin to talk to each other about inequity that should not be fos-
+what is wrong and what can be done to right it.
+tered; rather it should and can be eliminated. An effort to eliminate unfair differences in pay is being made through a pro- gram of collection and dissemin- ation of information on the problem, as a first step, and it is toward that end that this article is directed
+(Continued on p. 5)
+BBN's internal
+system-such as
+has proven itself
+equate. The recently aborted
+merger episode made this obvious. The merger connoted changes which could have had significant effects on all of us, yet we were not con- sulted. No one even bothered to
+teii us· what was happening, let alone ask us what we thought about
+communications
+it exists at all-
+it. Then, suddenly,
+plans were cancelled.
+brief memo to this effect, there was no communication at all from the few who knew what had hap-
+EVOLUTIONOF THE BBNUNDERGROUND
+Study, reading, talk, action--all
+of th~se have characterized the discussion group during its history. To begin with, a small group formed in the winter of 1968-69 for the purpose of read- ing, studying, and discussing Marcuse's book One Dimensional Man. · Before long, the group had grown and the discussions had
+shifted emphasis from a detailed study of Marcuse to a general critique of society and of the
+life and work of technical workers
+(Continued on p. 5)
+This Is the first page of a twelve page newsletter. For further information cohtact Herb Fox.
+pened. virtually
+Intercom,
+ignored
+of course, the whole
+thing.
+entirely inad-
+the merger Beyond a
+35 ·
+
+         36.
+Number 1
+Produced by employees of LRL, Berkeley
+March 30, 1970 ********************************iHE-**************
+*
+*
+*
+*
+*
+*
+*
+************************************************
+This informal newspaper is being written* and circulated by and for Rad Lab employees. * It was born out of the need for open commun- * ication among the many Lab members - on the * scientific, technical and support staffs - * who are concerned about the turbulent issues*
+of the 1970's and their relat!on to the Lab.*
+REPORT OF THE ZACKAY COMMITTEE : NO }'REE SPEECH AT THE RAD LAB
+Background: During last fall's Vietnam Moratorium a g~oup of · Rad Lab employees asked to have a noon meeting in the
+Building 50 auditorium to hear from some local speakers and to have a discussion of war-related issues. The
+Lab Director refused permission. Another group handed out leaflets inviting sci~ntists and engineers to join
+the November 15 march in San Francisco, until the Director halted ~his activity as well. Although both of these activities were planned so as not to interfere with
+normal Lab functions the Director felt that they could
+not be allowed; and in response to complaints about this restrictive attitude he a.ppointed a committee, under Professor Zackay, to study the whole question and to make reco:mmendations on policy regarding the use of Lab faci- lities. After four months of hearings and deliberations
+we now have new rules which say:
+1. Lab facilities can be used only for technical discussions and for other programs •required by the AEC.
+2. Notices of other, off-site, meetings may be posted on
+designated bulletin boards, and no other forms of posting or distribution are allowed. '
+In sununary, no "free speech" or· "free assembly" is permitted.
+Alternatives: The most popular alternative to this restrictive ·- ·ruling is simply: let the Lab be open to free discussion
+subject only to ~ules regarding ti~e, place and manner -
+this 1s the mode on university campuses. A more specific _proposal was the following, which was submitted to the
+Zackay committee by four members of the Lab. (over)
+
+          Pn•sidcnl:
+, Margaret Mead, Ph.D.
+AmC'fic,mMuseum o/ NouurJIllistory
+Chairman:
+Barry Commorwr, Ph.D. Washington lJnivt.•rsity, St. Louis, Mi))ouri
+Vit·<•-Ch.1irman:
+l)c,n E. Abr,thamson, M.D., Ph.D. University of Minn,•sotJ
+Sencl.iry:
+Allen C. Nadler, M.D. Salin•s. California
+lrcJsurcr:
+Pt•IN J.Caws, Ph.D. ~·;1yUnivrrsity ol New York R,•ncJ.Dubos, Ph.D.
+1ht•Rmkclrllt•r Uni\'l•nit}'
+(;rrson T. Lc-sst•r,M.0.
+Nt•w \'ork Uni,·l'r.,ity M,•clir,1'Cc•ntl't Rus~t•IIti. MorJ;,,tn,M.D.
+Ih1•Jolms llopJ..ins l-lmpit,11
+L W. Pfeiffer, Ph.D.
+llnin•r,ity of Monr,10.1
+[dw.trd L. T,t1um,Ph.D.
+Tlw Rork,·l,•11,•rl/ni,·c•r,,ty
+[xrtUliYt' Dirt•tlor:
+\V,,ller Bog,tn
+WHAT DOES SIPI
+DO?
+S C I E N T I S T S' Cable address:SIPINFO
+r,
+SlDl
+The
+enlists
+and other
+Institute supports
+specialists
+of environmental
+on a
+variety
+in providing and
+social
+issues.
+Scientists• and
+for scientists,
+Public physicians,
+public other
+SIPI, engineers
+information
+Pollution;
+Environmental Edu~ation, 1970;
+Cost of Electric Environmental
+NSTITUTE fOR PUBLIC INFORMATI ON
+time; Pesticides; and Water
+Pollution.
+the public.
+Explosives
+These
+are being
+TASK
+scientists
+groups,
+Reevaluation
+Environment
+sor~d by
+of Science.
+in the environment has
+located
+numerous books ping file on particularly environment.
+The
+in Manhattan,
+ENVIRONMENT
+st. Louis an official
+SIPI
+magazine, edited
+for Environmental
+and
+the Institute,
+ated committees.
+and
+who
+the
+are preparing
+30
+East Sixty-eighthStreet,New York,N.Y.,10021
+Since
+for
+SIPI
+assist
+izing science information groups in the~r communities.
+1963, science seeks
+SIPI has
+served committees
+WHAT ARE SOME OF SIPI'S
+RECENT ACTIVITIES? and coordinating
+SIPI
+last year:
+assembled of_ its
+In addition formation
+to organizing committees,
+has initiated
+the
+science in- following
+three
+projects in the
+eight
+information to stimulate
+the and other citizens
+concerned scientists
+WORKBOOKS: SIPI by scientists
+recently in several
+information affiliated
+pre- groups
+pared
+and
+Air
+Environmental
+Weapons Technology; Hunger; Nuclear
+produced
+workbooks
+on environ~ental
+topics:
+Power; Effects of
+in Peace-
+workbooks
+forces affiliated
+Pesticide
+and the
+sold at cost to
+FORCES: SIPI has
+from both within and outside
+Report Report.
+Electric
+REPORT:
+This is the quarterly
+presents news of SIPI and its
+American
+In addition,
+for
+FREE ENVIRONMENTAL
+LIBRARY:
+SIPI library, contains
+extensive clip- and society,
+on man and his.
+at SIPI headquarters
+and publications
+and an of science
+the interaction the effects
+It
+of technology is open to the public
+without
+published Information,
+charge.
+by the is
+of affili-
+Committee publication
+of SIPI.
+as the
+national around
+coordinator country.
+and integrate
+their
+work and to in organ-
+organized two reports:
+Association
+a national
+task the
+Power
+of
+and the
+The power report
+spon- the Advancement
+survey of mercury recently by SIPI.
+been
+initiated
+Information,
+its
+is jointly
+newsletter
+37
+
+       38
+30 Et1St68th S1teet, New York, New York 10021
+NEW YORK
+ScientiCstosm'mfiottree PubIlnicformaItniocn.,
+Telephone: (212) 737-7302
+WHATIS SCPI?
+The New York scientists' Committee for Public Information,
+SCPI, is co~ntry,
+with the
+one of the having been Scientists'
+oldest science information organiza~ions ~n.the organized thirteen years ago. It is affiliated Institute for Public Information.
+WHATDOESSCPI DO?
+The purpose of SCPI .is to provide objective technical inform~t~o~ to any interested individual, organization,or agency. SCPI activities
+are carried out by its various subcommittees, composed of volunteer scientists, physicians, engineers and others. The SCPI office pro-
+vides
+support and coordination for these
+activities.
+The
+ical
+and
+and the environment; lead poisoning in child=en; nuclear power react-
+population; scientif~c knowledge on intergroup conflict and war; water pollution; noise and pesticides.
+topics covered by SCPI subcommittees
+effects of radiation; biology and sociology of race; chemical
+biological warfare; drug use and drug abuse; electric power needs
+ors;
+WHATARESOMEOF SCPI 1S RECENTACTIVITIES?
+I for ..i
+legal
+for state
+Recent projects include: sponsoring two informational gatherings
+members of Congress on chemical and biological warfare and on lead poisoning in children; preparing testimony on the environmental effects of electric power and its production, given to city and state admin-
+istrative and legislative bodies; developing a handbook on the and technical aspects of water pollution.
+WHATARESOMEOF SCPI1S ON-GOINGACTIVITIES?
+At present,
+Clean Air and the staffs_o~
+technical legislative
+to Citizens the city,
+SCPI is providing
+information committees at
+and federal
+local TV, radio and major newspapers and magazines• providing speakers to loc1;ll and national g~oups on request. SCPI als~ prepares a month- ly radio program on environmental affairs over WBAI-FMand publishes
+a m~ntnly newsletter. ?ne of its members also presents a weekly
+radio commentary on environmental matters.
+levels; providing
+for national
+and
+... NlefAllriaera
+Ivan Bennett, Jr., M.D., Detlev Bronk, Ph.D., Rene Dubos,Ph.D. AIIIIGuttmacher, M.D., John laugblin, Ph.D. Margaret Mead Pb D Gerald Piel, EdwardTatum, Ph.D. ' ' ..
+"- ,,) ;\ •Jo•'.''._alli..;
+background
+are: air pollution; biolog-
+information
+•-r.r•I Dlreetera
+Joel Buxbaum, M.D., Raul Cardenas, Ph.D., William Cruce, Ph.D. Stanley Deutsch, Ph.D., Judith Eckman, Ph.D., Gerson Lesser, M.D. Ev~!n ~uss: Sc.D., Glenn Paulson, B.A., Edmund Rothschild, M.D.
+Philip Siekev1tz,Ph.D., Tom Stonier, Ph.D., Sidney Socolar, Ph.D. Leonard Zablow, Susan Zolla, Ph.D.
+
+          News of the groups referred to in the following pages has been included, not as an en<lorsment of these groups by CSKE,but as an indication that ~~ny
+39
+We have included material on these groups in such profusion to help convince you that
+just becaus~ you do not hear ~bout such
+things on the eleven o'clock news. Joes
+not mean that they do not happen or that they have no impact,
+They do,
+groups throughout the country and are UOING things,
+exist
+The activities
+rarely reported
+co:,ununications
+therefore to learn of their existence
+LABOR- UNIVERSITY ALLIANCE
+of these groups are in the regular
+lilcdia,making it difficult
+We believe that the time has come too-
+pen a 1,1eans 11hereby progressive e 1ements
+in the universities, a1,1ong both faculty
+and students, can begin to worK together
+with progressive elements in the labor
+111ove111tento achieve co1o11~onsocial and po-
+1 it i ca 1 objectives. Such cooperation of-
+fers 1,1any and crucial rnutual advantages,
+It 1wuld give the academic com;nunity ,,hat
+it 11011 i,1ost lacks: a base in the outside
+cu1.i1,1untiy, It would r,1ake 1.iure available
+to the labor 111over,1entthe universities• z
+resources of disinterested pertise and instruction mast concern it,
+!.QFOR THE COMMON GOOD
+research, ex- "
+on problems that
+The most urgent concerns of Ar,1ericans 1wrkers---a1,1ong them peace, racial just-
+ice, job security, decent environ~ents in which to work and live, adequate medical
+security, housing schools represent equally the
+and faculty r,1embers,
+0
+~
+care
+stable
+needs
+These welfare
+the we 1fare
+3
+WHATNEEDSTO BE DONE:
+and social prices---all of students
+In these times when so many of our problems are the result of technology, we must search for new directions to apply our effort to directly benefit al1people as inciividuals,
+A few product areas which suggest
+oujectives
+of
+are as the university
+i1111->ortant tu the
+community move,nent,
+to
+directed toward fn-
+gani..iation!:i and the university cor,1munity to foster our coi.1111oninterests and in this
+way to promote the political health and. social and econor,iic welfare of our nation,
+We wish, atives and
+encourage initi-
+of the therefore,
+labor
+programs
+creasing the cooperation between labor or-
+the~selves·as beneficial to bers of people are:
+/ small personal electrically pelled vehicles
+large num- pro-
+Alliance Members LABORUNIONS-Leonard Woodcock,United
+llurkers,(lnd,);Nat Weinberg,United liurkers, Di r,ofSpeci al Proj ects;Harol
+Giubons,Teamsters,(lnd,);Howard A111algamated Clothing llorkers, Ja1.1es 1-latles,United Electrical
+(lnd,);John Hein,Ass't.to
+Federation of State,County 1iuri--ers,(AFL-CIO);C,Robinson
+~urrell,Distributive Workers of America,
+( InJ,) ;A. Fei nglass,A111al ga1,1ated f,1eat
+Cutters and Butcher Workers(AFL-CIO) fACULTY-George Wald,Harvard;Noam Chomsky,
+ii, I.T.; Fran,Schurlilann, UnIv, of Cal, Berke 1ey
+Seymour Melman,Colu1,1bia;Richard Inst.for Policy Studies,wash,DC; Peck,Western Reserve,Cleveland STuDENTS-D,lfshin,Pres,National
+Assoc.Wash.DC;F.Greer,Univ.of
+(N,SrA,);J,Rodriguez,Univ,of .
+you suggestions In the of new products, Our electricla and mechani-
+R. Eachus,uni v.of Oregon;C,Schumer,Harvard; S,Ti11ald,Univ.ofNebraska;W,Shamblin,Univ,
+of II.Virginia
+For
+242~ HUDSON
+EAST MEADOW, L, I., NEW YORK 1115154
+(1518) SUnHt 15-5822
+Information Write To: A.Starr,·
+Shirley
+Center for Urban Studies Univ, of ~hicago
+d Samuel, (AFL-CIO); 1~urkers,
+/ agricultural the small farMer
+equipment of use to
+Pres.American and Municipal
+Perhaps you know of other potentially useful products or are already engaged activities oriented in the direction
+the cornr,1ongood, We, of Pacifica Engin- eering, would like to assist you In these
+and R,
+Barnet, Sidney
+Student Maryland
+T~xas; --
+In of
+as to
+Auto Auto
+/ machines to extend the skills of those people who are retired,or unable tu find work for various reasons
+..
+iii
+..
+> q>_ACIFICA
+ENGINEERING
+/ independent electric supplies doi.1esti c use
+/ wind and solar powered electric power sources
+for
+efforts or offer
+con~iderations
+skills include
+cal engineering,
+ci:ilon 1,1achining and production of elec- tronic or electro-mechanical prototypes~
+design, drafting, pre-
+STREET
+Edmund G, Trunk, P~E.
+
+        40
+BTL TECHNICALWORKERFSAVORSTRONGPROFESSIONALORGANIZATION
+In November 1970, J. V. N. Granger, then president of the IEEE, published an article in the IEEE Spectrum
+in which he indicated that, in the opinion of its Board of Directors, to put the IEEE in the role of a "pressure group" would be morally repugnant to most, if not all,
+of its membership.
+That this conclusion represented a gross distortion of the attitudes of IEEE members was evidenced by the
+flood of protesting letters received by the IEEE (see Spectrum, Jan. 1971). Further evidence was provided by the results of a survey recently conducted by the Conference of Professional Technical Personnel, Inc.,
+an association of technical employees of Bell Telephone Laboratories. In response to the question "Do you favor
+a strong professional organization (such as the American Medical Association)?", 65%of the respondents said "YES".
+Without regard to the merits, or demerits, of the AMA, it should be amply clear that there is a strong sentiment for a professional organization to repr-es-ent the valid interests of engineers. At this juncture, the IEEE should be defining those' interests and deciding how best to represent its members rather than taking the position that it should not represent them at all.
+)> .
+'Tl
+:x:
+rr,
+C
+rr, er.
+(")
+er.
+:0
+rr,
+Madam
+I have sold you
+an electric an electric an electric an electric an electric an electric an electric an electric an electric an electr
+Cl)
+~ an electr
+LI.Janelectr co
+plug
+fl ash 1i ght
+blanket bell cooker kettle fan
+iron
+drier c mixer
+C washer
+~ an :::,
+z an
+3 an
+UJ an
+L.U an :::>
+c., an
+3 an an an an
+electr electr electr electr electr electr electr electric electric electric electric electric
+C c
+c c
+c c c c
+peeler sweeper mower singer knife
+clock
+fire
+switch toothbrush razor teapot
+eye
+1i ght.
+se11 you chair
+z
+an
+an
+allow me to an electric
+.·,. ~-.,_-i~-~ ....,.
+00
+'
+
+           RETRAININGW:HAT'NSEEDEDW?HAT'PSLANNED?
+Federal and state governments are beginning torespondtothemassunemploymenotfscien- tific and technical professionals; one aspect of this response is the planning and fund- ing of retraining programs. In California,
+a pilot programof this type funded by the National Science Foundation has started in the Palo Alto area
+The present employmentsituation seems to be more of a byproduct of Nixon's economic po~icies rather than a planned change in the industrial-government relationship.
+This is one reason whyalmost no study has been made.of the needed forms of retraining. Both governmentand industry have been caught with their pants downand are hastily
+trying to formulate plans. SomeAEROSPACED commentson this situation follow.
+A first thought is that what's needed is not retraining, but jobs. Manypersons in aerospace do have sufficiently broad back- grounds to work on commercial and civil projects or to teach. A strong governmen- tal corrmittmentto solving the problems of transportation, pollution, health care, etc, wouldemploymanywithout extensive re- training.
+Planning for actual retraining has stressed broadening of technical skills. An aspect which has received very little discussion concerns the position of the professi ona1 in our society, and, especially for us in science and engineering, our isolation
+from the uses of our work. The·proJects usually discussed as job alternatives
+have political and social implications
+as penetrating as does working for the War. For example, transportation (will Detroit find an alternative to the auto- mobile? public transportation in all
+city areas?), data banks (expansion of "subversi_ve"files? private use of census data?), and pollution control (will in- dustries use the technical solutions?).
+Technical retraining alone will not resolve these issues; if we are to control our own products a reorientation to newmodesof
+working together and relating to our com-
+munities are required as well. For example, alawyer'scommunheasformedinLosAngeles <'· with the purpose of providing free or at · ' cost legal service to peace and community
+groups. This organization intends to work
+as part of the communityrather than in a removedl'professional" role. AEROSPACED
+would like to encourage thoughts (and actions)
+about similar approaches for technical and
+scientific work. Anycomments?
+CPP/ A EROSPACED
+Further,
+salaries
+and then receive additional government funds for retraining are ,denying this moneyto the poor whoare faced not just with a year or two of unemployment,but
+a lifetime. (Nine million do·llars has been allocated to the State of California for retraining, 5.4 million of the total
+to LAand Orangecounties.). Criticism of federally financed retraining projects has already been raised by povery groups.
+professionals who received high working on governmentprojects
+PO BOX24134 Los Angeles,
+Calif. 90049
+American Society of Mechanical Engineers
+MetropolitaSnfftion
+Congradulations lication of its
+"SPARK".
+to CSRE on
+first issue of
+We commend you for
+"literary" forum for engineers engineering groups. We hope
+very soon some of your spokesmen will use the oral forum of ASMEto widen your membership and to widen the
+view of the typical Mechanical
+Engineer toward his profession and his expectations and his responsibilities
+in its practice.
+A centralizing committee such as yours has been needed for a long time. We wish you success and pledge to en- courage you In every feasible way.
+ASME_Hegional 2- ENGINEERS' FORU1'1 Norma J. Osgen, Chairman
+providing
+a that
+the pub-
+and
+
+             I
+I ,I
+,, ,I
+AI ,..
+I2L POI -I26 PA
+SC
+1-36 s,
+42
+F·1,•.-'.-zsi_.§•• ,1. .-!.9i:}fl.i.J..!P~➔Pr*'.?fP~k·.:.
+If you wan bil
+fi0 · ht Mass •
+. for a chance .to use your
+-EQUALITy
+Whole nonwi. ·te
+tan · m World ·
+W; cy _is approximatel Just abo
+e doing research f, ; 33.36 Yt V(_)LII. I am ve . or. elife e. the People'. ia~nterested in Your . What
+Lookmg_
+. Science
+for the People? TAP
+GN UP FOR
+SI . ce Project) (Technical Assikstan Sound Systems,
+ttoworon .t . ti·ons Equipmen '
+Commumca . Automo es, . Self-DefenseMechanisms
+Chemical Analysis, he People, Box 59, write: Science for t · 0217 5 or call
+What it is try· You send me soBrc m to Ille, .
+Arlington Hezg s, 491-1850 ext. 305 'Scot' 491-8725_ o~? We'll help you learn
+that the miJ·ta.z;. . accomplish. W Science
+;.:~::c~.~:W;am•OMEN
+munity is in ae:ns_ necessary. The~ le like t
+As for
+_'specialized sJa:::, ?etween _ . . scf°pl~•may
+IN SCIENC.City and the horr·b1 m_ academic to,., dictions I ePlight f ..ers b.
+Hope t h o the oppreSSe emg
+stroyed, tha/ the mdust~ial cornpl/~e on it a
+. the drug comp . exploitation of t the21 f1
+Ped by any m anies and the .A.l\,fA~ ust be 0
+anythi nique Position
+solVinng tse, 'Science for ~~ettificcon:
+help in
+that have ang he many complex struggl
+O
+Y e"'rfrom vou Ver
+usrea1.
+01 · R • Ysoon evolution.
+'
+fi t be sto1
+!Is
+
+                   ADDRESS TO TH.
++
+STATISTICS FOR THE PEOPLE
+4/ 6/, a::k:an be obtai:;;al. Called ({ (!f l11!'/itary fey, Ca/ir. . by 1Vrf1.· · Sc1enc
+l.Jorn1a,94 'liO tng.-St:Sp A e 4. ,Box
+SCIENCE FOR VIETNAM
+Disassociate yourself from Nixon's war and ex- press your solidarity with the people of Vietnam. Join a growing coalition to help the Vict11a11;cscin problems of development and reconstructiu11 by di- rect scientific collaboration with the University of Hanoi, the Provisional Revolutionary Government, and other institutions. Projects include biomedical technology, especially relating to pellet bomb injur- ies, rehabilitation of poisoned soils and devastated
+forests, developlllent in computer sciences, obtaining seed varieties for agriculture, and collecting books and reprints for special courses in basic sciences in Vietnamese universities.
+The help of both sdentists and nonscientists
+is needed. Contact: Levins/Lewontin, Biology Dept., Univ. Chicago, Chicago, Ill., 60637
+SCIENZA PER IL
+5C/£NTl5ATND5ENGINEERS
+LET YOUR SCIENCE SERVE THE PEOPLE
+F TION5·E5PA
+. T/icilfz·
+1 llarp I.
+'.o dmnfizat~ ndusrria/ Scie .
+tfornia at B nzany JizcilitiesntiJlc Comp/ex
+aton, n1 erke/ey_ T,,. L of the Un1·v .has come . - ere1z b rte aiv erslfy ,,
+of nuclear as een insrn rence Radiat. oJ Ca/- P:essii,enz:~nzs as We//as :;;:,enta/in the d;~n Labor- . !tsrs H·/zoI' . Ureshave be 'A.B/lfand /If. efoPment
+H•/zohave oice criticisn1 :n taken agains:R r,_ Re- l1ig/zleve/sexpress-edcon~e/ost recent/v a ~al scien. hzgA111eric:jradiation to 11~ ~Verthe dan~atnst those
+lic/i the Al:C .
+e he
+art of the
+and nuc•'o et detai/in<>t.h p there has .
+A ,Lar". o eI.I1 /Ust
+t War . Science" ~O' histo
+_erous!y is expos-
+beast at Pllb/ish-
+Sl::Sp . B . '.Ahas be
+erkefey_ r,·,e11active in th ed ne SE""
+aPan1phl u,'.,4 grou
+43
+
+        ~ --i.# ,I,
+\ ..
+"Channeling"is one of ten documents in an "OrientationKit" ·put out by the Selective Service. It wasfssued in July 1965 and has recently been withdrawn. The following are excerpts from th(lt
+document.
+One of the major products of the Selective Ser.viceclassification process.is the channeling of manpower into many endeavors, occupa- tions and activities that are fn the national interest ....
+The line dividing the primary function of armed force~ manp~~er ptocureftlent from the process of channeling manpow~r 1DtoCIVIiian support is often finely drawn. The process of channeling by not tak- ing men from certai,n activities "'.ho are o~erwise _liable for ~erv1c~, or by givingdeferment to qualified men ID certa1Doc;c~~auons'.~s actual procurement by inducement of manpower for c1V11iaanct1V1- ties which are manifestly in the national interest.
+While thebest known purpose of Selective Service is to procure manpower for the armed forces, a variety of_related processes take place outside delivery of manpower to the active armed forces. Many of these may be put under the heading of "channeling manpower." Many young men would not have pursued a higher education if there had not been a program of student deferment. Many young scientists, engineers;tool and die makers, and other possessors of scarce skills would not remain in their jobs in the defense effort if it were not for a programof occupational deferments. Even though the s~ary of a
+. teacher has historically been meager, many young men rema1DID that job, seeking the reward of a deferment. The process of channeling manpower by deferment is entitled to much credit for the large num- ber of graduate students in technical fields and for the fact that there
+-isnot a greater shortage of teachers, engineers and other scientists workina in activities which are essential to the national interest ....
+The System has also induced needed people to remain in these pro- fessions and in industry engaged in defense activities or in the support of national health, safety or interest. . . .
+This was coupled with a growing public recognition that the com- plexitiesof future wars would diminish further the distinction be- tween what constitutes military service in uniform and a comparable contribution to the national interest out of uniform. Wars have al- ways~ conducted in various ways, but appreciation of this fact and its relationship to preparation for war has never been so sharp in the public mind as it is now becoming. The meaning of the word "service," with its former resti;icted application to the armed forces, is certainto become widened much more in the future. This brings with it the ever increasing problem of how to control effectively the service of individuals who are not in the armed forces.
+In the Selective Service System the term "deferment" has been used millions of times to describe the method and means used to at- tract to the kind of service considered to be most important, the individualswho were not compelled to do it. The club of induction hasbeen.usedto drive out of areas considered to be less important to the areas of greater importance in which deferments were given, the individuals who did not or could not participate in activities which were considered essential to the defense of the Nation. The Selective Service System anticipates further evolution in this area ....
+ing will be felt, rather than be terminated by military service at too early a time. .
+Registrants and their employers are encouraged and required to make available to the classifying authorities detailed evidence as t-0 the occupations and activities in which the registrants are engaged . . . . Since occupational deferments are granted for no more than one year at a time, a process of periodically receiving current informa· tion and repeated review assures that every deferred registrant con- tinues to contribute to the overall national good. This reminds him of the basis for his deferment ....
+Patriotism is defined as "devotion to the welfare of one's country."' It has been interpreted to mean many different things. Men have always been exhorted to do their duty. But what that duty is depends upon a variety of variables, most import~nt being the nat~re of the threat to national welfare and the capacity and opportunity of the individual. Take, for example, the boy who saved the Netherlands by plugging the dike with his finger.
+At the time of the American Revolution the patriot was the so- called "embattled farmer" who joined General Washington to fight the British. The concept that patriotism is best exemplified by serv· ice in uniform has always been under some degree of challenge, but never to the extent that it is today. In today's complicated warfare, when the man in uniform may be suffering far less than the civilians at home, patriotism must be interpreted far more broadly than ever before. ·
+This is not a new thought, but it has new emphasis since the de·
+velopment of nuclear and rocket warfare. Educators, scientists, en·
+gineers and their professional organizations, during the last ten years
+particularly, have been convincing the American public that for the
+mentally qualified man there is a special order of patriotism oth~r
+than service in uniform-that for the man having the capacity, dedi·
+cated service as a civilian in such fields as engineering, the sciences
+and teaching constitute the ultimate in their expression of patriotism.
+A large segment of the American public has been convinced that this is true.
+It is in this atmosphere that the young man registers at age 18 and pressure begins to force his choice. He does not have the inhibitions that a philosophy of universal service ln uniform woutc:tengenaer. The door is open for him as a student if capable in a skill badly needed by his nation. He has many choices and he is prodded to make a decision.
+The pscychological effect of this circumstantial climate depends
+upon the individual, his sense of good citizenship, his love of coun·
+try and its way of life. He can obtain a sense of well-being and satis·
+faction that he is <toingas a civillan wna1 will help his country most.
+This process encourages him tQ put forth his best effort and removes
+to some degree the stigma that has been attached to being out of uniform.
+In the less patriotic and more selfish individual it engenders a sense of fear, uncertainty and dissatisfaction which motivates him, ne~ertheless. in the same direction. He complains of the uncertainty which he must endure; he would like to be able to do as he pleases; he would appreciate a certain future with no prospect of military serviceorciviliancontribution, buthecomplies....
+.
+ever,in a realistic atmosphere_so that the fullest effect of channel·
+No group deferments are permitted. Deferments are granted, how•
+CHINEUN&
+Throughout his career as a student, the pressure-the threat of
+
+         loss of deferment-continues. It continues with equal intensity after graduation. His local board requires periodic reports to find out what he is up to. He is impelled to pursue his skill rather than em- bark upon some less important enterprise and is encouraged to apply his skill in an essential activity in the national interest. The loss of deferred status is the consequence for the individual who has ac- quired the skill and either does not use it or uses it in a.nonessential activity.
+The psychology of granting wide choice under pressure to take ac- tion is the American or indirect way of achieving what is done by direction in foreign countries where choice is not permitted. Here, choice is limited but not denied, and it is fundamental that an in- dividual generally applies himself better to something he has decided to do rather than something he has been told to do.
+The effects of channeling are manifested among student physicians. They are deferred to complete their education through school and internship. This permits them to serve in the armed forces in their skills rather than in an unskilled capacity as enlisted men.
+The device of pressurized guidance, or channeling, is employed on Standby Reservists of which more than 2 I/2 million have been referred by all services for availability determinations. The appeal to the Reservist who knows he is subject to recall to active duty unless he is determined to be unavailable is virtually identical to that extended to other registrants.
+The psychological impact of being rejected for service in uniform is severe. The earlier this occurs in a young man's life, the sooner the benefi~ial effects of pressured motiviation by the Selective Serv- ice System are lost. He is labeled unwanted. His patriotism is not desired. Once the label of ..rejectee" is upon him all efforts at guid- ance by persuasion are futile. If he attempts to enlist at 17 or 18 and is rejected, then he receives virtually none of the impulsion the System is capable of giving him. If he makes no effort to enlist and as a result is not rejected until delivered for examination by the Selective Service System at about age 23, he has felt some of the pressure but thereafter is a free agent.
+This contributed to establishment of a new classification of I-Y (registrant qualified for military service only in time of war or na- tional emergency). That classification reminds the registrant of his ultimate qualification to serve and preserves some of the benefit of what we call channeling. Without it or any other similar method of categorizing men in degrees of acceptability, men rejected for military service would be left with the understanding that they are unfit to detend their country, even in wartime.
+An unprejudiced choice between alternative routes in civilian skills can be offered only by an agency which is not a user of manpower and is, therefore, not a competitor. In the absence of such an agency, bright young men would be•importuned with bounties and pirated
+copies of this obt~inable from
+CLERGYAND IAYMENCONCERNEDABOUTVIETNAM
+475 Riverside Drive. New York, N.Y. 10027 - 212-749-85.J:8
+FILMS FOR SOCIAL CHANGE:
+but what can we do? l~minutes
+45
+like potential college football players until eventually a system of arbitration .would have to be established.
+From the individual's viewpoint, he is standing in a room which has been made uncomfortably warm. Several doors are open, but they lead to various forms of recognized, patriotic service to the Nation. Some accept the alternatives gladly-some with reluctance. The consequence is approximately the same.·
+The so-called Doctor Draft was set up during the Koreanepisode to insure sufficient physicians, dentists and veterinarians in the armc:d forces as officers. The objective of that law was to exert sufficient · pressure to furnish an incentive for application for c::ommission.How- ever, the indirect effect was to induce many physicians, dentists and veterinarians to specialize in areas of medical personnel shortages and to seek outlets for their skills in areas of greatest demand and national need rather than of greatest financial return.
+Selective Service processes do not compel people by edict as in foreign systems to enter pursuits having to do with essentiality and progress. They go because they know that by going they will be deferred.
+The application of direct methods to effect the policy of every man doing his duty in support of national interest involves consid- erably more capacity than the current use of indirection as a method of allocation of personnel. The problem, however, of what is every man's duty when each individual case is approached is not simple. The question of whether he can do one duty better than another is a problem of considerable proportions and the complications of logis- tics in attempting to control parts of an operation without controlling all of it (in other words, to control allocation of personnel without controlling where people eat, where they live and how they are to be transported), adds to the administrative difficulties of direct"ad- ministration. The organization necessary to make the decisions, even poor decisions, would, of necessity, extract a largesegment of popu- lation from productive work. If the members of the organization are conceived to be reasonably qualified to exercise judgment and control over skilled personnel, the impact of their withdrawal from war production work would be severe. The number of decisions would extend into billions.
+Deciding what people should do, rather than letting them do some- thing of national importance of their own choosing, introduces many problems that are at least partially avoided when indirectmethods, the kind currently invoked by the Selective Service System, are used.
+Delivery of manpower for induction, the process of providing a few thousand men with transportation to a reception center, is not much of an administrative or financial challenge. It is in dealing with·the other millions of registrants that the System is heavily oc- cupied, developing more effective human beings in the national in- terest. If there is to be any survival after disaster, it will take people,
+and not machines, to restore the Nation. Reprinted from Ramparts
+July, 1965-
+.
+The true story of a weapons engineer's dllema to either give
+up his well paying job or to continue to work for death in order to live.
+the schjzophrenia of working for war 41J minutes
+Three life stories of three weaponsmakers who each oppose the war. One quits, another continues to rationalize his work for the war and the third is fJred for his public denunciation of the war.
+for more Information on the films contact
+Leonard M. Henry
+512l Waterman Blvd. st. 1ou I s, Mo. 631O8 Phone(314)367-8719
+
+          46
+111eanhditsriends
+Dwight.David Eisenhower, the 34th President of the United States of America said:
+This co'i-tjunction of an immense military establishment and a large arms industry
+is new in the American experience. The total influence- economic, political,
+even spiritual- is felt in every city, every statehouse, every office of the Federal Government. We recognize the imperative need for this development. Yet we must not fail to comprehend its grave implications. Our toil, resour~es and livelihood are all involved; so too is
+the very structure of our society. Wemust never let the weight of this
+combination endanger our liberties or democratic processes.
+Technology was.invented to serve man and yet everywhere his needs are at a crisis.
+A spiritual crisis over the fact that efforts at providing adequate medical care, housing, ed- ucation, and tra11sportation are dwarfed by expen- ditures for irrelevant super-sophisticated weapon- ry and a race to the moon spurred on by national vanity.
+An economic crisis in engineering where men· who have spent lifetimes acquiring knowledge are jobless because it is now expedient to eliminate federal programs with no desire to enlist these people in the service of solving the sundry social problems that face this nation.
+DAVID-PACKARD
+David Packard is 59 years old, 6 feet 4 inches and weighes 250 pounds and since 1959 has been Deputy Secretary of Defense. Prior to moving to the Defense Department, Packard had been on the board of Directors
+of the·General Dynamics Corp., U.S. Steel,
+And most importantly, an
+the proper aims of this nation.
+IEEE honor a man who in his personal career has placed human needs over war, public well-being
+over corporate profits, a hope in the future over the morass.of the past? What sort of example do we set?
+David Packard,·Assistant Secretary of War,
+Development National
+30% owner of Hewlett-Packard which is a
+fo1; restoring confidence in democratic rather tha~
+aristocratic traditions, and for public honesty
+~ath~r than 30 mi~lion dollar trust funds; how can
+we, in good conscience, choose him as the IEEE's symbol for 1971? ·. ·'
+1969) as saying that "Men who have made a career in the d7f 7nse industry are likely
+to be ~es~ sensitive to controlling the expansionist tendencies of the establishment.
+. Packard, chairman of the Board and Chief Operating Office of the Hewlett-Pack- ard Co., owned 30% of the stock of this
+ethical
+Do we and the
+crisis over
+still
+prime DODcontractor, member of the boards of
+Genera~ Dynamics, US steel, Pacific Gas and
+ELic~ric etc. may be a dedicated, sincere hard-
+working man, but when the needs of the country
+cry for re~uilding our cities rather than for ABM was quoted in the Washington Post (Jan.24,
+The IEEE should honor thos-e who have directly
+fought to serve the·best interests of all our
+people and not the select club of corporate exec- company that does $100 million business with utives and cynical generals.
+~e believe that the current misuse of our technology can be turned around to meet our soc- ial problems but not if we set up David Packard and others like him as our examples. We suggest that while you listen to Mr. Packard you think of
+llion value of his share of Hewlett-Packard his ~ast a~d current decisions to choose necro- wou~d have no influence on his decision
+philic proJects over humane ones. And if you doubt tha~ our society does have more pressing technosocial problems than those enumerated b M1;. Packard we kindly suggest that you take ay ride on the NewYork Subway.
+making process. Sen. Gore's trust arrangement was· that ence (would) be shaken 11 •
+reaction "public
+to the confid-
+Stanford Research Institute, the
+Life Insurance Co., Hewlett-Packard,
+Univ., National Airlines, System
+Corp. (SCS), the Crocker-Citizens
+Bank, the American Management Association, Huggines Laboratory, and the Varian Corp. He was also director of the International
+Advisory Committee of the Chase Manhattan Bank and was on the Advisory Board of the
+Hoover Peace.
+Institute of War, Revolution, and
+When news of his move to the Defense Department was announced, former Ass't
+Secr 7tary to Defense Adam Yarmolinsky,
+worried about blatant "conflict of attitu('le"
+· the g<;>vernment each year. Packard arranged for his 30% stock interest in Hewlett-Packard ~ b: put in a trust managed by the Bank of
+ferica during
+0 • ~efense.
+dividends and
+!Ioc~ would go to charity, the basic $300
+his term as Deputy Secretary He claimed that since the
+capital appreciation of the
+source Current Biography (1969) Con't. on next page Who's Who 1958-1969
+Equitable Stanford
+
+          wholsreien?d
+While serving on the Board of Directors of the General Dynamics, Packard worked with former Ass't Sec. of the Air Force and cur- rent president and Chairman of the Board Roger Lewis. Packard and Lewis met not only at General Dynamics meetings but also at the meeting of the Stanford Univ. Trustees.
+George S. Moore, Chairman of the Board of the First National City Bank, and on the Board of W.R. Grace, Chubb, United Airlines, Borg-Warner and Mercantile Stores, worked with Packard on the board of U.S. Steel.
+L.D. Welch and George Metcalf are two of Moore's fellow directors at First Nation- al City. Welch is Chairman of the Board of Comsat and former Chairman of Stanford Oil of New Jersey. Metcalf is Chairman of the Sears ,c Roebuck Co. While Moore and Metcalf worked with Packard on the Board of U.S. Steel, Welch was with him on the Board of
+On June 17,1969 Deputy Defence Sec- retary David Packard was asked what did the president mean when he said that his goal was simply a "sufficiency of arms"?
+Mr. Packard shrug1ed his shoulders and replied,"lt means that it's a good word to use in a speech, Beyond that, It doesn't mean a God-damned thing."
+General
+Dynamics.
+John M. Meyer, Jr., Chairman of the Board of Morgan Guarantee Trust Co., was a
+fellow director with Packard at U.S.
+The President of Morgan Guarantee'Trust
+Thomas S. Gates, former Secretary of Defense. Henry S. Wingate is also on the Board of
+Morgan
+was a
+Steel.
+and Chief Executive International Nickel
+J.P. Morgan Co.,
+Guarantee Trust, the
+fellow director Wingate is
+with Chairman
+Officer Co.
+Packard
+of the Board of the
+Rockefeller, while Packard was Chase Manhattan's International Committee.
+director of Advisory
+Saunders is the Chairman of Penn Central, while Blough was Chairman of U.S. Steel till 1969. Both saw Packard at board meetings of U.S. Steel and the Eqitable Life Insurance Company.
+W.A. Haas and C.F. Wente and Packard were on the Board of Pacific Gas and Electric which serves most of Northern and Central California. Both are also on the Board of the Bank of America which operates the
+constituted
+of America's
+solutions to problems of political disorder and potential Communist threats In the areas of our Interest,"
+"trust"
+Packard stock while he was Deputy Secretary of Defense.
+General D.M,5houp Ret. Former Commandant U.S. Marines
+If you like this man write to us for article"The New American Militarism"
+Packard established for his Hewlett-
+Steel. is
+at U.S.
+William C. Bolenieus, on the Board of cycle has been completed, the contractor
+International Nickle with Wingate, former Vice-Chairman of AT&T, and on the boards of the Pullman Co., Ingersoll-Rand, was on the board of General Dynamics with Packard,
+while Wingate and Packard were on the board of U.S. Steel.
+Another interesting pair are Roger Blough and Stuart Saunders, both on the Board of Chase~Manhattan Bank with David
+will be able to produce the product at a pro- fit, Under this .Plan, there are no develop- ment costs stated at the outset. Thus there are never anycost overruns. And as stated In Aviation Week and Space Technology (March8, 1971) "The result (of cost overruns) has
+been an Intensification of the public sus- picion of the military-industrial complex."
+"America. has become a r,1i1i tar is tic and aggressive nation. Our massive and swift Invasion of the Dominican Republic
+in l9b5, concurrent with the rapid build- up of U.S. military power in Vietnam,
+Charles E. l~ilson sold his $2, 7 million of General Motors stock when he entered the Pentagon.
+Rbbert S.(?) McNamara sold his $1,5 million of Ford stock when he entered
+the Pentagon.
+Arthur Goldberg even divested him- self of rights to future pension earned when he was counsel to the steel workers union.
+In Feb, 19b9 on a television
+produced In San Francisco, Edward Teller gave his assessment of u.s.-soviet
+relations and spoke strongly in favor of the Safeguard program. When Professor
+anofsky pointed out that the system was poorly designed and could not be expected to work, Teller replied that we would
+gain valuable industrial· experience even in one year of work on the project.
+For Fiscal 1972, Packard's "milestone"(?) concept will go Into effect. That Is, the government will accept the development-cost risks of a contract,but once the development
+his
+an Impressive demonstration readiness to execute military
+debate
+i
+!l:
+'. I
+,,I
+·\
+
+        1 1i<1!
+,,, 1. 'I
+48
+----.-.-..---------
+DO'NOTIVF.TIJF.1.0'l''f/11SLINE
+--~- fl.7~ 7/
+Thank )'OU for· :,our oourto■t,
+DEPARTMENT OF THE NAVY
+.U.S. NAVAL ORDNANCE LABORATORY WHITE OA" IIL.YERSPRING, MARYLAND 20,10
+POSTAGE ANO FEES PAID NAVY DEPARTMENT
+,.
+-.-..._.--...--......,."-" ---...-.....
+U. S. NAVAL ORDNAt-:ce·LABORA"i'OR"a"
+WrllTE OAIC
+SIL.VER SPRING, MARYi.AND 20910 DATE
+Gentlemen:
+If no reprints are .avail.able,pleaao oheck hero ___
+, and return thi■ envelope.
+Very tNlt
+youl'I,
+3
+
+       NEW MEMBERS WANTED
+I .would like to join SANE. Enclosed are my dues of $10 ($~ fo~ ~tudents and active duty Non-Com GI's, $s for senior c1t12ens). Please check one.
+I would like to receive more background material □.
+If you want a friend to receive a free copy of SANE - Wo,ld, please send an addressed, stamped envelope.
+49
+IID
+Military Industrial Complex
+c/o American Friends Service
+NAME_____________ _ ADDRESS______ _ CITY __
+lllll[[l](fffl)l]
+318 Mau. Ave., N.E., Washington, D.C. 20002 THE GLAD DAY PRESS
+308 STEWART AVENUE ITHACA • N. Y. 14850
+is a movement free press. They print
+research and pain phlets of radical groups.
+They also reprint articles from RAMPARTS
+'
+New York GESI'A has been leafletting
+the Ri~erside R~search Institute
+every ,·Jed. morm.ng and Fri. evening
+for over a ye2r now. RRI is New York
+LEVIATHAN , MONTHLY REVIEW
+NEW YORK REVIEW OF BOOKS • BULLETIN OF ATOMIC SCIENTl,STS, etc.
+Write for literature list and bulk rates
+800 U.S.ScientistsAttack Defense-PlantSecurityBill
+WashingtonN,ov.18!A'I-Abill LetterToLawmakers whichitsbackersclaim,isneed- Dr. Jeremy Stone,national ed to keep subversives·away director of the Federation of fromclassifiedinformationand AmericanScientists,saidinlet- sensitivej1,bsat defensefacili- ters to SenatorKennedyandto ties was attackedtoday by sci- SenatorBirchBayh, (D., Ind.)
+entists whotermed it "not only and Senator Hugh Scott, (R., unnecessary but unconstitu-Pa):
+tional." "Wefeel that an extensionof
+Morethan BOOAmericansci- the existingpersonnel~tty entistssignedpei.itionsa,ndthe progr~ sho~ldbe legislated 1,500-membenronpif;lisaoFed-onl}'i.f it fulfillsa deeplyfelt '!ration of AmericanScientists national need, only If it bu sent ld!@:S mgmgSi!h5tors-to c!ear prospectso_fbeing effec- kill the measure which the hve, and only If 1t Is evidently H1,usepassedby274to65ear- constitution~!£.Theblllfailsall
+NARMIC
+National Action on the
+Research
+Committee, Philadelphia,
+WRITEFOR:
+160 N. 15th Penna. 19102
+St.
+I. Weapons for Counterinsurgency Narmic's first handbook for local
+organizers.
+2. Copies of NARMIC methodologies, occasional papers, reports, etc., and discounts on all major publications.
+3. Mailings of timely information and articles.
+4. Access to the NARMIC reference library for local action projects.
+lier this year
+· • • • • •
+thesetests.
+. "Wedo not opposethe exist- mg systemof screeningperson- nel for accessto classifiedinfor• mation," he added, "but th~ mainpurposeofthisbillis toset up anotherless workableper- sonnel-screeninpgrog~am... ''
+TheUniversity-MilitaCryomplex
+This 60-psge pamphlet constitutes the most comprehensive tabulation of military research on American campuses. Contains a short analytical statement by Michael Klare, descriptions of some 40 military research organizations, and inventories of chemical and biological warfare research and foreign affairs research. All of this material is completely cross-indexed to expedite the correlation of data.
+Single copies: $1 plus 25¢ postage; bulk rates (add postage), 10-49: 75¢; 50 or more: 60¢.
+NACLA RESEARCH METHODOLOGY GUIDE
+Contents: PARTI: RESEARCHINTGHEEMPIRE- How to research the U.S. imperial elite: corporations/ people/ non-profit organizations/ government agencies. PARTII: CAMPURSECONNAISANC-EHowto investigate campus military contracting. Single copies: 25¢ plus 10¢ for posiage and handling; over 25 copies: 15¢ each (plus post~ge)-
+NORTHAMERICANCONGRESSONLATINAMERICA/ P.O. Box 57, Cathedral Park Stacion, N.Y. N.Y. 10025
+Co;nput 7r_People
+a inu~t1-1ssue
+meetings and demonstrations ' during the SJCC. SJCC ls being held in Convention Hall in AtlanticCity, N.J.,Mayl8-2U.
+City's
+largest weapons think-tank.
+BALTIMOSRUEN,Novembe1r9, 1970
+for series
+Peace plans of actions,
+(RRI~
+
+         LUli&MM#MifaUll&L!iiiWMiiMW
+~
+as between 5
+YOU THE SUPPLY
+We worked,studied and got ahead. After graduating from a demanding technical program, we were off to a good job at
+high pay and,who knows,maybe a shot at middle management. Before us flowered the prospect of a professional career,status, upward mobility and exciting technical pushing forward the 'state of the a
+ARE IN
+DEMAND
+n9t to mention an occupational This was ~he 6ptlm~stlc hope, b stance,. It seemed, wou1d not h
+Propaganda about the at and necessity of engineer by federa 1 funds b.ecaus talks; channeled an In students Into the res supernumerary technlc defense spendfng hlg
+go around each pote
+stocked up englnee
+be ab 1e to demon·s participate In. t
+pad thP. b111 In
+WIth the co
+critical publl the· necess Ity
+de
+'"
+. being deprive With engi
+VI
+0
+...,. from socially
+Engineers who
+engineers, t Z stable peopl
+authorities ·W The IEE unemployme
+C preparatl :al 1 again
+for the d we wl 11 b before, e
+lsland·As Is sollcl
+pl lot pro UJ for Jobs I C waste wate
+·teach Ing, number of through t
+The sci today· fin
+to other· .A the land,
+-....._ ten~s to d encourages
+0
+by and 1arge
+organization 0 enthusiasm t
+and Inhibit ),: to a wastefu
+~ harnesses the
+Q. to the cause of
+· of the real needs
+Q..be no sat Isfactory
+~ problems untll all sclen
+~ geared to the satisfaction
+CJ)t.he direct control of the people, ,
+SPIii
+re
+-," ndustr~~=nt
+of wants, under
+555±
+51
+
+              try
+thestaff :elsahor
+mv i tz lee horo\v i tz teJ1,1anko vichpaul stollert edv.;erntL.
+to
+conform
+to
+the
+This is
+3 1i1onths
+this is oeing
+As feH members
+(only the \vill join The wori<.ing organization
+hope people
+needs of its are trying
+If you like \vhat ~ve
+the first i5sue of Spark. CSRE is only
+old (the name is even younger).
+'.-Je have nevv york
+feels r;1agazine
+supporters.
+do please help us with both your
+~.iritten
+working corr~1ittee).
+very
+us
+at the co,n1riittee and the
+We
+ieee convention.
+to
+ideas on how we should proceed and with
+financial support so that ~;e/ can proceed•If you are in general agree1,1ent vd th us and consider yourself a rnember,fine. If you have doubts, but want to maintain contact,fine also.
+In any case please send us the following: !~ar,1e
+AJdress and
+If you would like us to put you
+other and
+Dues:
+1,1ernbers in your include occupation
+area,please (affiliation).
+in touch with indicate
+Zip code
+$10 annual, unemployed ~2,
+broke $1, aff 1uent more than $10•
+Let us knmv hmv many magazines you cou 1d help us sell on consignment.
+Send us the names and addresses of people you
+think wou 1d 1i ke to receive a comp 1ernen tary c-opy.
+Send advice,co1;11nents, ideas,articles or whats happening where you are.This is way to get to know each other.
+~~hen submitting
+articles
+for magazine
+publication format.
+coverdesign byannlondon
+L\..:Jl/1
+ro-o.o ~
+1-C'-..C
+.0 Cl) QJ .μ
+- ·- >·- .... 1- o ~ 1,..4-,- I-
+:, l1J.... QJ ooro+J
+::,...μ t/1 .μ 0 t/1 ::, ·-
+,1.,,1 ::, Cl) .... :II QJ .... .μ ::J > U C ~--::,.. 0
+0b.OU-O m:::,,c,.μ
+that both the 1;-1ust serve the
+student $5,
+news of
+the
+best
+please
+
+
+         . -::
+r:--:.1t,,t'. i)r
+social
+responsibility
+in
+e:1gineering
+fall 1971 - vol. 1 no. 2
+$0.50
+.."'
+.
+. '' .,...,
+·1.
+CSRE GE RESISTOR CONGRESSMAN KOCH ENGINEERING UNIONS? ENGINEERS FOR PEACE IEEE ENTERS THE 70'S
+ENVIRONMENTAL ACTION REVOLUTIONARY ENGINEERING
+DOING IT AT THE WORK PLACE NEW ENGINEERING CONFERENCE IBM VS LAWRENCE TATE
+I'
+:I
+,'] ''[ i!
+11 ![i ''
+i'! :I
+1li 11:
+'I' lj[
+I,J,i.
+·~
